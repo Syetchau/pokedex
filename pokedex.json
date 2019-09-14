@@ -437,7 +437,7 @@
     }]
   }, {
     "id": 19,
-    "num": "019-a",
+    "num": "019a",
     "name": "Alolan Rattata",
     "img": "https://www.serebii.net/pokemongo/pokemon/019-a.png",
     "type": [
@@ -452,7 +452,7 @@
       "Fighting"
     ],
     "next_evolution": [{
-      "num": "020-a",
+      "num": "020a",
       "name": "Alolan Raticate"
     }]
   }, {
@@ -474,7 +474,7 @@
     }]
    }, {
     "id": 20,
-    "num": "020-a",
+    "num": "020a",
     "name": "Alolan Raticate",
     "img": "https://www.serebii.net/pokemongo/pokemon/020-a.png",
     "type": [
@@ -489,7 +489,7 @@
       "Fighting"
     ],
     "prev_evolution": [{
-      "num": "019-a",
+      "num": "019a",
       "name": "Alolan Rattata"
     }]
   }, {
