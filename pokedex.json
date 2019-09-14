@@ -2226,13 +2226,6 @@
     ],
     "height": "0.30 m",
     "weight": "4.0 kg",
-    "candy": "Shellder Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.52,
-    "avg_spawns": 52,
-    "spawn_time": "07:39",
-    "multipliers": [2.65],
     "weaknesses": [
       "Electric",
       "Grass"
@@ -2252,12 +2245,6 @@
     ],
     "height": "1.50 m",
     "weight": "132.5 kg",
-    "candy": "Shellder Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.015,
-    "avg_spawns": 1.5,
-    "spawn_time": "02:33",
-    "multipliers": null,
     "weaknesses": [
       "Electric",
       "Grass",
@@ -2279,15 +2266,7 @@
     ],
     "height": "1.30 m",
     "weight": "0.1 kg",
-    "candy": "Gastly Candy",
-    "candy_count": 25,
-    "egg": "5 km",
-    "spawn_chance": 0.79,
-    "avg_spawns": 79,
-    "spawn_time": "04:21",
-    "multipliers": [1.78],
     "weaknesses": [
-      "Ground",
       "Psychic",
       "Ghost",
       "Dark"
@@ -2310,18 +2289,7 @@
     ],
     "height": "1.60 m",
     "weight": "0.1 kg",
-    "candy": "Gastly Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.052,
-    "avg_spawns": 5.2,
-    "spawn_time": "00:10",
-    "multipliers": [
-      1.56,
-      1.8
-    ],
     "weaknesses": [
-      "Ground",
       "Psychic",
       "Ghost",
       "Dark"
@@ -2345,14 +2313,7 @@
     ],
     "height": "1.50 m",
     "weight": "40.5 kg",
-    "candy": "Gastly Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.0067,
-    "avg_spawns": 0.67,
-    "spawn_time": "03:55",
-    "multipliers": null,
     "weaknesses": [
-      "Ground",
       "Psychic",
       "Ghost",
       "Dark"
@@ -2373,14 +2334,8 @@
       "Rock",
       "Ground"
     ],
-    "height": "8.79 m",
+    "height": "8.80 m",
     "weight": "210.0 kg",
-    "candy": "None",
-    "egg": "10 km",
-    "spawn_chance": 0.10,
-    "avg_spawns": 10,
-    "spawn_time": "01:18",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Grass",
@@ -2397,18 +2352,8 @@
     "type": [
       "Psychic"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "32.4 kg",
-    "candy": "Drowzee Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 3.21,
-    "avg_spawns": 321,
-    "spawn_time": "01:51",
-    "multipliers": [
-      2.08,
-      2.09
-    ],
     "weaknesses": [
       "Bug",
       "Ghost",
@@ -2428,12 +2373,6 @@
     ],
     "height": "1.60 m",
     "weight": "75.6 kg",
-    "candy": "Drowzee Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.10,
-    "avg_spawns": 10,
-    "spawn_time": "02:17",
-    "multipliers": null,
     "weaknesses": [
       "Bug",
       "Ghost",
@@ -2451,18 +2390,8 @@
     "type": [
       "Water"
     ],
-    "height": "0.41 m",
+    "height": "0.40 m",
     "weight": "6.5 kg",
-    "candy": "Krabby Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 2.12,
-    "avg_spawns": 212,
-    "spawn_time": "03:33",
-    "multipliers": [
-      2.36,
-      2.4
-    ],
     "weaknesses": [
       "Electric",
       "Grass"
@@ -2481,12 +2410,6 @@
     ],
     "height": "1.30 m",
     "weight": "60.0 kg",
-    "candy": "Krabby Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.062,
-    "avg_spawns": 6.2,
-    "spawn_time": "03:44",
-    "multipliers": null,
     "weaknesses": [
       "Electric",
       "Grass"
@@ -2503,18 +2426,8 @@
     "type": [
       "Electric"
     ],
-    "height": "0.51 m",
+    "height": "0.50 m",
     "weight": "10.4 kg",
-    "candy": "Voltorb Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.65,
-    "avg_spawns": 65,
-    "spawn_time": "04:36",
-    "multipliers": [
-      2.01,
-      2.02
-    ],
     "weaknesses": [
       "Ground"
     ],
@@ -2530,14 +2443,8 @@
     "type": [
       "Electric"
     ],
-    "height": "1.19 m",
+    "height": "1.20 m",
     "weight": "66.6 kg",
-    "candy": "Voltorb Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.02,
-    "avg_spawns": 2,
-    "spawn_time": "04:10",
-    "multipliers": null,
     "weaknesses": [
       "Ground"
     ],
@@ -2554,18 +2461,8 @@
       "Grass",
       "Psychic"
     ],
-    "height": "0.41 m",
+    "height": "0.40 m",
     "weight": "2.5 kg",
-    "candy": "Exeggcute Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.78,
-    "avg_spawns": 78,
-    "spawn_time": "09:09",
-    "multipliers": [
-      2.7,
-      3.18
-    ],
     "weaknesses": [
       "Fire",
       "Ice",
@@ -2578,6 +2475,9 @@
     "next_evolution": [{
       "num": "103",
       "name": "Exeggutor"
+    }, {
+      "num": "103a",
+      "name": "Alolan Exeggutor"
     }]
   }, {
     "id": 103,
@@ -2588,14 +2488,8 @@
       "Grass",
       "Psychic"
     ],
-    "height": "2.01 m",
+    "height": "2.00 m",
     "weight": "120.0 kg",
-    "candy": "Exeggcute Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.014,
-    "avg_spawns": 1.4,
-    "spawn_time": "12:34",
-    "multipliers": null,
     "weaknesses": [
       "Fire",
       "Ice",
@@ -2610,6 +2504,29 @@
       "name": "Exeggcute"
     }]
   }, {
+    "id": 103,
+    "num": "103a",
+    "name": "Alolan Exeggutor",
+    "img": "http://www.serebii.net/pokemongo/pokemon/103-a.png",
+    "type": [
+      "Grass",
+      "Dragon"
+    ],
+    "height": "10.90 m",
+    "weight": "415.6 kg",
+    "weaknesses": [
+      "Flying",
+      "Ice",
+      "Dragon",
+      "Poison",
+      "Fairy",
+      "Bug"
+    ],
+    "prev_evolution": [{
+      "num": "102",
+      "name": "Exeggcute"
+    }]
+  }, {
     "id": 104,
     "num": "104",
     "name": "Cubone",
@@ -2617,15 +2534,8 @@
     "type": [
       "Ground"
     ],
-    "height": "0.41 m",
+    "height": "0.40 m",
     "weight": "6.5 kg",
-    "candy": "Cubone Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.61,
-    "avg_spawns": 61,
-    "spawn_time": "01:51",
-    "multipliers": [1.67],
     "weaknesses": [
       "Water",
       "Grass",
@@ -2634,6 +2544,9 @@
     "next_evolution": [{
       "num": "105",
       "name": "Marowak"
+    }, {
+      "num": "105a",
+      "name": "Alolan Marowak"
     }]
   }, {
     "id": 105,
@@ -2643,18 +2556,34 @@
     "type": [
       "Ground"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "45.0 kg",
-    "candy": "Cubone Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.02,
-    "avg_spawns": 2,
-    "spawn_time": "03:59",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Grass",
       "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "104",
+      "name": "Cubone"
+    }]
+   }, {
+    "id": 105,
+    "num": "105a",
+    "name": "Alolan Marowak",
+    "img": "http://www.serebii.net/pokemongo/pokemon/105-a.png",
+    "type": [
+      "Fire",
+      "Ghost"
+    ],
+    "height": "1.00 m",
+    "weight": "34.0 kg",
+    "weaknesses": [
+      "Water",
+      "Ground",
+      "Rock",
+      "Ghost",
+      "Dark"
     ],
     "prev_evolution": [{
       "num": "104",
