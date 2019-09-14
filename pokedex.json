@@ -503,18 +503,9 @@
     ],
     "height": "0.30 m",
     "weight": "2.0 kg",
-    "candy": "Spearow Candy",
-    "candy_count": 50,
-    "egg": "2 km",
-    "spawn_chance": 4.73,
-    "avg_spawns": 473,
-    "spawn_time": "12:25",
-    "multipliers": [
-      2.66,
-      2.68
-    ],
     "weaknesses": [
       "Electric",
+      "Ice",
       "Rock"
     ],
     "next_evolution": [{
@@ -530,16 +521,11 @@
       "Normal",
       "Flying"
     ],
-    "height": "1.19 m",
+    "height": "1.20 m",
     "weight": "38.0 kg",
-    "candy": "Spearow Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.15,
-    "avg_spawns": 15,
-    "spawn_time": "01:11",
-    "multipliers": null,
     "weaknesses": [
       "Electric",
+      "Ice",
       "Rock"
     ],
     "prev_evolution": [{
@@ -554,18 +540,8 @@
     "type": [
       "Poison"
     ],
-    "height": "2.01 m",
+    "height": "2.00 m",
     "weight": "6.9 kg",
-    "candy": "Ekans Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 2.27,
-    "avg_spawns": 227,
-    "spawn_time": "12:20",
-    "multipliers": [
-      2.21,
-      2.27
-    ],
     "weaknesses": [
       "Ground",
       "Psychic"
@@ -582,14 +558,8 @@
     "type": [
       "Poison"
     ],
-    "height": "3.51 m",
+    "height": "3.50 m",
     "weight": "65.0 kg",
-    "candy": "Ekans Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.072,
-    "avg_spawns": 7.2,
-    "spawn_time": "01:50",
-    "multipliers": null,
     "weaknesses": [
       "Ground",
       "Psychic"
@@ -606,15 +576,8 @@
     "type": [
       "Electric"
     ],
-    "height": "0.41 m",
+    "height": "0.40 m",
     "weight": "6.0 kg",
-    "candy": "Pikachu Candy",
-    "candy_count": 50,
-    "egg": "2 km",
-    "spawn_chance": 0.21,
-    "avg_spawns": 21,
-    "spawn_time": "04:00",
-    "multipliers": [2.34],
     "weaknesses": [
       "Ground"
     ],
@@ -630,15 +593,30 @@
     "type": [
       "Electric"
     ],
-    "height": "0.79 m",
+    "height": "0.80 m",
     "weight": "30.0 kg",
-    "candy": "Pikachu Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.0076,
-    "avg_spawns": 0.76,
-    "spawn_time": "23:58",
-    "multipliers": null,
     "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "025",
+      "name": "Pikachu"
+    }]
+     }, {
+    "id": 26,
+    "num": "026a",
+    "name": "Alolan Raichu",
+    "img": "https://www.serebii.net/pokemongo/pokemon/026-a.png",
+    "type": [
+      "Electric",
+      "Psychic"
+    ],
+    "height": "0.70 m",
+    "weight": "21.0 kg",
+    "weaknesses": [
+      "Ghost",
+      "Dark",
+      "Bug",
       "Ground"
     ],
     "prev_evolution": [{
@@ -653,15 +631,8 @@
     "type": [
       "Ground"
     ],
-    "height": "0.61 m",
+    "height": "0.60 m",
     "weight": "12.0 kg",
-    "candy": "Sandshrew Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 1.11,
-    "avg_spawns": 111,
-    "spawn_time": "01:58",
-    "multipliers": [2.45],
     "weaknesses": [
       "Water",
       "Grass",
@@ -672,6 +643,26 @@
       "name": "Sandslash"
     }]
   }, {
+    "id": 27,
+    "num": "027a",
+    "name": "Alolan Sandshrew",
+    "img": "https://www.serebii.net/pokemongo/pokemon/027-a.png",
+    "type": [
+      "Ice",
+      "Steel"
+    ],
+    "height": "0.70 m",
+    "weight": "40.0 kg",
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "028a",
+      "name": "Alolan Sandslash"
+    }]
+  }, {
     "id": 28,
     "num": "028",
     "name": "Sandslash",
@@ -679,14 +670,8 @@
     "type": [
       "Ground"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "29.5 kg",
-    "candy": "Sandshrew Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.037,
-    "avg_spawns": 3.7,
-    "spawn_time": "12:34",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Grass",
@@ -696,26 +681,36 @@
       "num": "027",
       "name": "Sandshrew"
     }]
+   }, {
+    "id": 28,
+    "num": "028a",
+    "name": "Alolan Sandslash",
+    "img": "https://www.serebii.net/pokemongo/pokemon/028-a.png",
+    "type": [
+      "Ice",
+      "Steel"
+    ],
+    "height": "1.20 m",
+    "weight": "55.0 kg",
+    "weaknesses": [
+      "Fire",
+      "Fighting",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "027a",
+      "name": "Alolan Sandshrew"
+    }]
   }, {
     "id": 29,
     "num": "029",
-    "name": "Nidoran ♀ (Female)",
+    "name": "Nidoran ♀",
     "img": "http://www.serebii.net/pokemongo/pokemon/029.png",
     "type": [
       "Poison"
     ],
-    "height": "0.41 m",
+    "height": "0.40 m",
     "weight": "7.0 kg",
-    "candy": "Nidoran ♀ (Female) Candy",
-    "candy_count": 25,
-    "egg": "5 km",
-    "spawn_chance": 1.38,
-    "avg_spawns": 138,
-    "spawn_time": "01:51",
-    "multipliers": [
-      1.63,
-      2.48
-    ],
     "weaknesses": [
       "Ground",
       "Psychic"
@@ -735,25 +730,15 @@
     "type": [
       "Poison"
     ],
-    "height": "0.79 m",
+    "height": "0.80 m",
     "weight": "20.0 kg",
-    "candy": "Nidoran ♀ (Female) Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.088,
-    "avg_spawns": 8.8,
-    "spawn_time": "07:22",
-    "multipliers": [
-      1.83,
-      2.48
-    ],
     "weaknesses": [
       "Ground",
       "Psychic"
     ],
     "prev_evolution": [{
       "num": "029",
-      "name": "Nidoran(Female)"
+      "name": "Nidoran ♀"
     }],
     "next_evolution": [{
       "num": "031",
@@ -770,12 +755,6 @@
     ],
     "height": "1.30 m",
     "weight": "60.0 kg",
-    "candy": "Nidoran ♀ (Female) Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.012,
-    "avg_spawns": 1.2,
-    "spawn_time": "12:35",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Ice",
@@ -784,7 +763,7 @@
     ],
     "prev_evolution": [{
       "num": "029",
-      "name": "Nidoran(Female)"
+      "name": "Nidoran ♀"
     }, {
       "num": "030",
       "name": "Nidorina"
@@ -792,7 +771,7 @@
   }, {
     "id": 32,
     "num": "032",
-    "name": "Nidoran ♂ (Male)",
+    "name": "Nidoran ♂",
     "img": "http://www.serebii.net/pokemongo/pokemon/032.png",
     "type": [
       "Poison"
