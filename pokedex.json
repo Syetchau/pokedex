@@ -452,7 +452,6 @@
       "Fighting"
     ],
     "next_evolution": [{
-      "num": "020",
       "name": "Alolan Raticate"
     }]
   }, {
@@ -489,7 +488,6 @@
       "Fighting"
     ],
     "prev_evolution": [{
-      "num": "019",
       "name": "Alolan Rattata"
     }]
   }, {
