@@ -3411,7 +3411,14 @@
       "Flying",
       "Ice",
       "Poison"
-    ]
+    ],
+    "next_evolution": [{
+      "num": "153",
+      "name": "Bayleef"
+    }, {
+      "num": "154",
+      "name": "Meganium"
+    }]
   }, {
     "id": 153,
     "num": "153",
@@ -3428,7 +3435,15 @@
       "Flying",
       "Ice",
       "Poison"
-    ]
+    ],
+    "prev_evolution": [{
+      "num": "152",
+      "name": "Chikorita"
+    }],
+    "next_evolution": [{
+      "num": "154",
+      "name": "Meganium"
+    }]
   }, {
     "id": 154,
     "num": "154",
@@ -3445,7 +3460,14 @@
       "Flying",
       "Ice",
       "Poison"
-    ]
+    ],
+    "prev_evolution": [{
+      "num": "152",
+      "name": "Chikorita"
+    }, {
+      "num": "153",
+      "name": "Bayleef"
+    }]
 
   }]
 }
