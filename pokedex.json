@@ -779,18 +779,8 @@
     "type": [
       "Poison"
     ],
-    "height": "0.51 m",
+    "height": "0.50 m",
     "weight": "9.0 kg",
-    "candy": "Nidoran ♂ (Male) Candy",
-    "candy_count": 25,
-    "egg": "5 km",
-    "spawn_chance": 1.31,
-    "avg_spawns": 131,
-    "spawn_time": "01:12",
-    "multipliers": [
-      1.64,
-      1.7
-    ],
     "weaknesses": [
       "Ground",
       "Psychic"
@@ -810,22 +800,15 @@
     "type": [
       "Poison"
     ],
-    "height": "0.89 m",
+    "height": "0.90 m",
     "weight": "19.5 kg",
-    "candy": "Nidoran ♂ (Male) Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.083,
-    "avg_spawns": 8.3,
-    "spawn_time": "09:02",
-    "multipliers": [1.83],
     "weaknesses": [
       "Ground",
       "Psychic"
     ],
     "prev_evolution": [{
       "num": "032",
-      "name": "Nidoran(Male)"
+      "name": "Nidoran ♂"
     }],
     "next_evolution": [{
       "num": "034",
@@ -842,12 +825,6 @@
     ],
     "height": "1.40 m",
     "weight": "62.0 kg",
-    "candy": "Nidoran ♂ (Male) Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.017,
-    "avg_spawns": 1.7,
-    "spawn_time": "12:16",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Ice",
@@ -856,7 +833,7 @@
     ],
     "prev_evolution": [{
       "num": "032",
-      "name": "Nidoran(Male)"
+      "name": "Nidoran ♂"
     }, {
       "num": "033",
       "name": "Nidorino"
@@ -869,18 +846,8 @@
     "type": [
       "Fairy"
     ],
-    "height": "0.61 m",
+    "height": "0.60 m",
     "weight": "7.5 kg",
-    "candy": "Clefairy Candy",
-    "candy_count": 50,
-    "egg": "2 km",
-    "spawn_chance": 0.92,
-    "avg_spawns": 92,
-    "spawn_time": "03:30",
-    "multipliers": [
-      2.03,
-      2.14
-    ],
     "weaknesses": [
       "Poison",
       "Steel"
@@ -899,12 +866,6 @@
     ],
     "height": "1.30 m",
     "weight": "40.0 kg",
-    "candy": "Clefairy Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.012,
-    "avg_spawns": 1.2,
-    "spawn_time": "03:29",
-    "multipliers": null,
     "weaknesses": [
       "Poison",
       "Steel"
@@ -921,18 +882,8 @@
     "type": [
       "Fire"
     ],
-    "height": "0.61 m",
+    "height": "0.60 m",
     "weight": "9.9 kg",
-    "candy": "Vulpix Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.22,
-    "avg_spawns": 22,
-    "spawn_time": "13:43",
-    "multipliers": [
-      2.74,
-      2.81
-    ],
     "weaknesses": [
       "Water",
       "Ground",
@@ -942,6 +893,26 @@
       "num": "038",
       "name": "Ninetales"
     }]
+   }, {
+    "id": 37,
+    "num": "037a",
+    "name": "Alolan Vulpix",
+    "img": "https://www.serebii.net/pokemongo/pokemon/037-a.png",
+    "type": [
+      "Ice"
+    ],
+    "height": "0.60 m",
+    "weight": "9.9 kg",
+    "weaknesses": [
+      "Fire",
+      "Steel",
+      "Rock",
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "038a",
+      "name": "Alolan Ninetales"
+    }]
   }, {
     "id": 38,
     "num": "038",
@@ -950,14 +921,8 @@
     "type": [
       "Fire"
     ],
-    "height": "1.09 m",
+    "height": "1.10 m",
     "weight": "19.9 kg",
-    "candy": "Vulpix Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.0077,
-    "avg_spawns": 0.77,
-    "spawn_time": "01:32",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Ground",
@@ -968,24 +933,40 @@
       "name": "Vulpix"
     }]
   }, {
+    "id": 38,
+    "num": "038a",
+    "name": "Alolan Ninetales",
+    "img": "https://www.serebii.net/pokemongo/pokemon/038-a.png",
+    "type": [
+      "Ice",
+      "Fairy"
+    ],
+    "height": "1.10 m",
+    "weight": "19.9 kg",
+    "weaknesses": [
+      "Fire",
+      "Steel",
+      "Rock",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "037a",
+      "name": "Alolan Vulpix"
+    }]
+  }, {
     "id": 39,
     "num": "039",
     "name": "Jigglypuff",
     "img": "http://www.serebii.net/pokemongo/pokemon/039.png",
     "type": [
-      "Normal"
+      "Normal",
+      "Fairy"
     ],
-    "height": "0.51 m",
+    "height": "0.50 m",
     "weight": "5.5 kg",
-    "candy": "Jigglypuff Candy",
-    "candy_count": 50,
-    "egg": "2 km",
-    "spawn_chance": 0.39,
-    "avg_spawns": 39,
-    "spawn_time": "08:46",
-    "multipliers": [1.85],
     "weaknesses": [
-      "Fighting"
+      "Steel",
+      "Poison"
     ],
     "next_evolution": [{
       "num": "040",
@@ -997,18 +978,14 @@
     "name": "Wigglytuff",
     "img": "http://www.serebii.net/pokemongo/pokemon/040.png",
     "type": [
-      "Normal"
+      "Normal",
+      "Fairy"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "12.0 kg",
-    "candy": "Jigglypuff Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.018,
-    "avg_spawns": 1.8,
-    "spawn_time": "12:28",
-    "multipliers": null,
     "weaknesses": [
-      "Fighting"
+      "Steel",
+      "Poison"
     ],
     "prev_evolution": [{
       "num": "039",
@@ -1023,18 +1000,8 @@
       "Poison",
       "Flying"
     ],
-    "height": "0.79 m",
+    "height": "0.80 m",
     "weight": "7.5 kg",
-    "candy": "Zubat Candy",
-    "candy_count": 50,
-    "egg": "2 km",
-    "spawn_chance": 6.52,
-    "avg_spawns": 652,
-    "spawn_time": "12:28",
-    "multipliers": [
-      2.6,
-      3.67
-    ],
     "weaknesses": [
       "Electric",
       "Ice",
@@ -1056,12 +1023,6 @@
     ],
     "height": "1.60 m",
     "weight": "55.0 kg",
-    "candy": "Zubat Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.42,
-    "avg_spawns": 42,
-    "spawn_time": "02:15",
-    "multipliers": null,
     "weaknesses": [
       "Electric",
       "Ice",
@@ -1081,15 +1042,9 @@
       "Grass",
       "Poison"
     ],
-    "height": "0.51 m",
+    "height": "0.50 m",
     "weight": "5.4 kg",
     "candy": "Oddish Candy",
-    "candy_count": 25,
-    "egg": "5 km",
-    "spawn_chance": 1.02,
-    "avg_spawns": 102,
-    "spawn_time": "03:58",
-    "multipliers": [1.5],
     "weaknesses": [
       "Fire",
       "Ice",
@@ -1112,15 +1067,8 @@
       "Grass",
       "Poison"
     ],
-    "height": "0.79 m",
+    "height": "0.80 m",
     "weight": "8.6 kg",
-    "candy": "Oddish Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.064,
-    "avg_spawns": 6.4,
-    "spawn_time": "11:33",
-    "multipliers": [1.49],
     "weaknesses": [
       "Fire",
       "Ice",
@@ -1144,14 +1092,8 @@
       "Grass",
       "Poison"
     ],
-    "height": "1.19 m",
+    "height": "1.20 m",
     "weight": "18.6 kg",
-    "candy": "Oddish Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.0097,
-    "avg_spawns": 0.97,
-    "spawn_time": "23:58",
-    "multipliers": null,
     "weaknesses": [
       "Fire",
       "Ice",
@@ -1176,18 +1118,11 @@
     ],
     "height": "0.30 m",
     "weight": "5.4 kg",
-    "candy": "Paras Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 2.36,
-    "avg_spawns": 236,
-    "spawn_time": "01:42",
-    "multipliers": [2.02],
     "weaknesses": [
       "Fire",
+      "Flying",
       "Ice",
       "Poison",
-      "Flying",
       "Bug",
       "Rock"
     ],
@@ -1204,19 +1139,13 @@
       "Bug",
       "Grass"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "29.5 kg",
-    "candy": "Paras Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.074,
-    "avg_spawns": 7.4,
-    "spawn_time": "01:22",
-    "multipliers": null,
     "weaknesses": [
       "Fire",
+      "Flying",
       "Ice",
       "Poison",
-      "Flying",
       "Bug",
       "Rock"
     ],
@@ -1233,18 +1162,8 @@
       "Bug",
       "Poison"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "30.0 kg",
-    "candy": "Venonat Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 2.28,
-    "avg_spawns": 228,
-    "spawn_time": "02:31",
-    "multipliers": [
-      1.86,
-      1.9
-    ],
     "weaknesses": [
       "Fire",
       "Flying",
@@ -1266,12 +1185,6 @@
     ],
     "height": "1.50 m",
     "weight": "12.5 kg",
-    "candy": "Venonat Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.072,
-    "avg_spawns": 7.2,
-    "spawn_time": "23:40",
-    "multipliers": null,
     "weaknesses": [
       "Fire",
       "Flying",
@@ -1292,13 +1205,6 @@
     ],
     "height": "0.20 m",
     "weight": "0.8 kg",
-    "candy": "Diglett Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.40,
-    "avg_spawns": 40,
-    "spawn_time": "02:22",
-    "multipliers": [2.69],
     "weaknesses": [
       "Water",
       "Grass",
@@ -1308,6 +1214,27 @@
       "num": "051",
       "name": "Dugtrio"
     }]
+   }, {
+    "id": 50,
+    "num": "050a",
+    "name": "Alolan Diglett",
+    "img": "https://www.serebii.net/pokemongo/pokemon/050-a.png",
+    "type": [
+      "Ground",
+      "Steel"
+    ],
+    "height": "0.20 m",
+    "weight": "1.0 kg",
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Fighting",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "051a",
+      "name": "Alolan Dugtrio"
+    }]
   }, {
     "id": 51,
     "num": "051",
@@ -1316,14 +1243,8 @@
     "type": [
       "Ground"
     ],
-    "height": "0.71 m",
+    "height": "0.70 m",
     "weight": "33.3 kg",
-    "candy": "Dugtrio",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.014,
-    "avg_spawns": 1.4,
-    "spawn_time": "12:37",
-    "multipliers": null,
     "weaknesses": [
       "Water",
       "Grass",
@@ -1333,6 +1254,27 @@
       "num": "050",
       "name": "Diglett"
     }]
+   }, {
+    "id": 51,
+    "num": "051a",
+    "name": "Alolan Dugtrio",
+    "img": "https://www.serebii.net/pokemongo/pokemon/051-a.png",
+    "type": [
+      "Ground",
+      "Steel"
+    ],
+    "height": "0.70 m",
+    "weight": "66.6 kg",
+    "weaknesses": [
+      "Fire",
+      "Water",
+      "Fighting",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "050a",
+      "name": "Alolan Diglett"
+    }]
   }, {
     "id": 52,
     "num": "052",
@@ -1341,21 +1283,33 @@
     "type": [
       "Normal"
     ],
-    "height": "0.41 m",
+    "height": "0.40 m",
     "weight": "4.2 kg",
-    "candy": "Meowth Candy",
-    "candy_count": 50,
-    "egg": "5 km",
-    "spawn_chance": 0.86,
-    "avg_spawns": 86,
-    "spawn_time": "02:54",
-    "multipliers": [1.98],
     "weaknesses": [
       "Fighting"
     ],
     "next_evolution": [{
       "num": "053",
       "name": "Persian"
+    }]
+  }, {
+    "id": 52,
+    "num": "052a",
+    "name": "Alolan Meowth",
+    "img": "https://www.serebii.net/pokemongo/pokemon/052-a.png",
+    "type": [
+      "Dark"
+    ],
+    "height": "0.40 m",
+    "weight": "4.2 kg",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "053a",
+      "name": "Alolan Persian"
     }]
   }, {
     "id": 53,
@@ -1365,20 +1319,33 @@
     "type": [
       "Normal"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "32.0 kg",
-    "candy": "Meowth Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.022,
-    "avg_spawns": 2.2,
-    "spawn_time": "02:44",
-    "multipliers": null,
     "weaknesses": [
       "Fighting"
     ],
     "prev_evolution": [{
       "num": "052",
       "name": "Meowth"
+    }]
+  }, {
+    "id": 53,
+    "num": "053a",
+    "name": "Alolan Persian",
+    "img": "https://www.serebii.net/pokemongo/pokemon/053-a.png",
+    "type": [
+      "Dark"
+    ],
+    "height": "1.10 m",
+    "weight": "33.0 kg",
+    "weaknesses": [
+      "Fairy",
+      "Bug",
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "052a",
+      "name": "Alolan Meowth"
     }]
   }, {
     "id": 54,
