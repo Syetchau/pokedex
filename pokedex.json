@@ -8,19 +8,12 @@
       "Grass",
       "Poison"
     ],
-    "height": "0.71 m",
+    "height": "0.70 m",
     "weight": "6.9 kg",
-    "candy": "Bulbasaur Candy",
-    "candy_count": 25,
-    "egg": "2 km",
-    "spawn_chance": 0.69,
-    "avg_spawns": 69,
-    "spawn_time": "20:00",
-    "multipliers": [1.58],
     "weaknesses": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "next_evolution": [{
@@ -39,22 +32,12 @@
       "Grass",
       "Poison"
     ],
-    "height": "0.99 m",
+    "height": "1.00 m",
     "weight": "13.0 kg",
-    "candy": "Bulbasaur Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.042,
-    "avg_spawns": 4.2,
-    "spawn_time": "07:00",
-    "multipliers": [
-      1.2,
-      1.6
-    ],
     "weaknesses": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "prev_evolution": [{
@@ -74,18 +57,12 @@
       "Grass",
       "Poison"
     ],
-    "height": "2.01 m",
+    "height": "2.00 m",
     "weight": "100.0 kg",
-    "candy": "Bulbasaur Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.017,
-    "avg_spawns": 1.7,
-    "spawn_time": "11:30",
-    "multipliers": null,
     "weaknesses": [
       "Fire",
-      "Ice",
       "Flying",
+      "Ice",
       "Psychic"
     ],
     "prev_evolution": [{
@@ -103,15 +80,8 @@
     "type": [
       "Fire"
     ],
-    "height": "0.61 m",
+    "height": "0.60 m",
     "weight": "8.5 kg",
-    "candy": "Charmander Candy",
-    "candy_count": 25,
-    "egg": "2 km",
-    "spawn_chance": 0.253,
-    "avg_spawns": 25.3,
-    "spawn_time": "08:45",
-    "multipliers": [1.65],
     "weaknesses": [
       "Water",
       "Ground",
