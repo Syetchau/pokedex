@@ -862,6 +862,10 @@
       "Poison",
       "Steel"
     ],
+    "prev_evolution": [{
+      "num": "173",
+      "name": "Cleffa"
+    }],
     "next_evolution": [{
       "num": "036",
       "name": "Clefable"
@@ -880,9 +884,12 @@
       "Poison",
       "Steel"
     ],
-    "prev_evolution": [{
+   "prev_evolution": [{
+      "num": "173",
+      "name": "Cleffa"
+    }, {
       "num": "035",
-      "name": "Clefairy"
+      "name": "Clefable"
     }]
   }, {
     "id": 37,
@@ -3823,10 +3830,10 @@
     "id": 171,
     "num": "171",
     "name": "Lanturn",
-    "img": "http://www.serebii.net/pokemongo/pokemon/168.png",
+    "img": "http://www.serebii.net/pokemongo/pokemon/171.png",
     "type": [
-      "Bug",
-      "Poison"
+      "Water",
+      "Electric"
     ],
     "height": "1.20 m",
     "weight": "22.5 kg",
@@ -3861,6 +3868,28 @@
       "num": "026a",
       "name": "Alolan Raichu"
     }]
+   }, {
+    "id": 173,
+    "num": "173",
+    "name": "Cleffa",
+    "img": "http://www.serebii.net/pokemongo/pokemon/173.png",
+    "type": [
+      "Fairy"
+    ],
+    "height": "0.30 m",
+    "weight": "3.0 kg",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "035",
+      "name": "Clefairy"
+    }, {
+      "num": "036",
+      "name": "Clefable"
+    }]
+
 
 
   }]
