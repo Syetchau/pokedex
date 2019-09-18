@@ -581,6 +581,10 @@
     "weaknesses": [
       "Ground"
     ],
+     "prev_evolution": [{
+      "num": "172",
+      "name": "Pichu"
+    }],
      "next_evolution": [{
       "num": "026",
       "name": "Raichu"
@@ -601,7 +605,10 @@
     "weaknesses": [
       "Ground"
     ],
-    "prev_evolution": [{
+     "prev_evolution": [{
+      "num": "172",
+      "name": "Pichu"
+    }, {
       "num": "025",
       "name": "Pikachu"
     }]
@@ -622,7 +629,10 @@
       "Bug",
       "Ground"
     ],
-    "prev_evolution": [{
+     "prev_evolution": [{
+      "num": "172",
+      "name": "Pichu"
+    }, {
       "num": "025",
       "name": "Pikachu"
     }]
@@ -3789,6 +3799,67 @@
     }, {
       "num": "042",
       "name": "Crobat"
+    }]
+   }, {
+    "id": 170,
+    "num": "170",
+    "name": "Chinchou",
+    "img": "http://www.serebii.net/pokemongo/pokemon/170.png",
+    "type": [
+      "Water",
+      "Electric"
+    ],
+    "height": "0.50 m",
+    "weight": "12.0 kg",
+    "weaknesses": [
+      "Grass",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "171",
+      "name": "Lanturn"
+    }]
+  }, {
+    "id": 171,
+    "num": "171",
+    "name": "Lanturn",
+    "img": "http://www.serebii.net/pokemongo/pokemon/168.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "1.20 m",
+    "weight": "22.5 kg",
+    "weaknesses": [
+      "Grass",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "170",
+      "name": "Chinchou"
+    }]
+  }, {
+    "id": 172,
+    "num": "172",
+    "name": "Pichu",
+    "img": "http://www.serebii.net/pokemongo/pokemon/172.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.30 m",
+    "weight": "2.0 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "025",
+      "name": "Pikachu"
+    }, {
+      "num": "026",
+      "name": "Raichu"
+    },{
+      "num": "026a",
+      "name": "Alolan Raichu"
     }]
 
 
