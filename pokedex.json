@@ -1011,6 +1011,9 @@
     "next_evolution": [{
       "num": "042",
       "name": "Golbat"
+       }, {
+      "num": "169",
+      "name": "Crobat"
     }]
   }, {
     "id": 42,
@@ -1029,9 +1032,13 @@
       "Psychic",
       "Rock"
     ],
-    "prev_evolution": [{
+     "prev_evolution": [{
       "num": "041",
       "name": "Zubat"
+    }],
+    "next_evolution": [{
+      "num": "169",
+      "name": "Crobat"
     }]
   }, {
     "id": 43,
@@ -3404,7 +3411,7 @@
       "Grass"
     ],
     "height": "0.90 m",
-    "weight": "6.40 kg",
+    "weight": "6.4 kg",
     "weaknesses": [
       "Bug",
       "Fire",
@@ -3428,7 +3435,7 @@
       "Grass"
     ],
     "height": "1.20 m",
-    "weight": "15.80 kg",
+    "weight": "15.8 kg",
     "weaknesses": [
       "Bug",
       "Fire",
@@ -3453,7 +3460,7 @@
       "Grass"
     ],
     "height": "1.80 m",
-    "weight": "100.50 kg",
+    "weight": "100.5 kg",
     "weaknesses": [
       "Bug",
       "Fire",
@@ -3477,7 +3484,7 @@
       "Fire"
     ],
     "height": "0.50 m",
-    "weight": "7.90 kg",
+    "weight": "7.9 kg",
     "weaknesses": [
       "Ground",
       "Rock",
@@ -3499,7 +3506,7 @@
       "Fire"
     ],
     "height": "0.90 m",
-    "weight": "19.00 kg",
+    "weight": "19.0 kg",
     "weaknesses": [
       "Ground",
       "Rock",
@@ -3522,7 +3529,7 @@
       "Fire"
     ],
     "height": "1.70 m",
-    "weight": "79.50 kg",
+    "weight": "79.5 kg",
     "weaknesses": [
       "Ground",
       "Rock",
@@ -3544,7 +3551,7 @@
       "Water"
     ],
     "height": "0.60 m",
-    "weight": "9.50 kg",
+    "weight": "9.5 kg",
     "weaknesses": [
       "Electric",
       "Grass"
@@ -3565,7 +3572,7 @@
       "Water"
     ],
     "height": "1.10 m",
-    "weight": "25.00 kg",
+    "weight": "25.0 kg",
     "weaknesses": [
       "Electric",
       "Grass"
@@ -3587,7 +3594,7 @@
       "Water"
     ],
     "height": "2.30 m",
-    "weight": "88.80 kg",
+    "weight": "88.8 kg",
     "weaknesses": [
       "Electric",
       "Grass"
@@ -3599,7 +3606,190 @@
       "num": "159",
       "name": "Croconaw"
     }]
-      
+    }, {
+    "id": 161,
+    "num": "161",
+    "name": "Sentret",
+    "img": "http://www.serebii.net/pokemongo/pokemon/161.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.80 m",
+    "weight": "6.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "162",
+      "name": "Furret"
+    }]
+  }, {
+    "id": 162,
+    "num": "162",
+    "name": "Furret",
+    "img": "http://www.serebii.net/pokemongo/pokemon/162.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.80 m",
+    "weight": "32.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "161",
+      "name": "Sentret"
+    }]
+   }, {
+    "id": 163,
+    "num": "163",
+    "name": "Hoothoot",
+    "img": "http://www.serebii.net/pokemongo/pokemon/163.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.70 m",
+    "weight": "21.2 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "164",
+      "name": "Noctowl"
+    }]
+  }, {
+    "id": 164,
+    "num": "164",
+    "name": "Noctowl",
+    "img": "http://www.serebii.net/pokemongo/pokemon/164.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "1.60 m",
+    "weight": "40.8 kg",
+    "weaknesses": [
+     "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "163",
+      "name": "Hoothoot"
+    }]
+  }, {
+    "id": 165,
+    "num": "165",
+    "name": "Ledyba",
+    "img": "http://www.serebii.net/pokemongo/pokemon/165.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1.00 m",
+    "weight": "10.8 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "166",
+      "name": "Ledian"
+    }]
+  }, {
+    "id": 166,
+    "num": "166",
+    "name": "Ledian",
+    "img": "http://www.serebii.net/pokemongo/pokemon/166.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1.40 m",
+    "weight": "35.6 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "165",
+      "name": "Ledyba"
+    }]
+   }, {
+    "id": 167,
+    "num": "167",
+    "name": "Spinarak",
+    "img": "http://www.serebii.net/pokemongo/pokemon/167.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "0.50 m",
+    "weight": "8.5 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "168",
+      "name": "Ariados"
+    }]
+  }, {
+    "id": 168,
+    "num": "168",
+    "name": "Ariados",
+    "img": "http://www.serebii.net/pokemongo/pokemon/168.png",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "height": "1.10 m",
+    "weight": "33.5 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "167",
+      "name": "Spinarak"
+    }]
+  }, {
+    "id": 169,
+    "num": "169",
+    "name": "Crobat",
+    "img": "http://www.serebii.net/pokemongo/pokemon/169.png",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "height": "1.80 m",
+    "weight": "75.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "041",
+      "name": "Zubat"
+    }, {
+      "num": "042",
+      "name": "Crobat"
+    }]
 
 
   }]
