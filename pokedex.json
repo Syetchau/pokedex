@@ -1516,6 +1516,10 @@
     }, {
       "num": "062",
       "name": "Poliwrath"
+    },
+    {
+      "num": "186",
+      "name": "Politoed"
     }]
   }, {
     "id": 61,
@@ -1538,6 +1542,9 @@
     "next_evolution": [{
       "num": "062",
       "name": "Poliwrath"
+    },{
+      "num": "186",
+      "name": "Politoed"
     }]
   }, {
     "id": 62,
@@ -4093,6 +4100,83 @@
       "num": "044",
       "name": "Gloom"
     }]
-
+   }, {
+    "id": 183,
+    "num": "183",
+    "name": "Marill",
+    "img": "http://www.serebii.net/pokemongo/pokemon/183.png",
+    "type": [
+      "Water",
+      "Fairy"
+    ],
+    "height": "0.40 m",
+    "weight": "8.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "184",
+      "name": "Azumarill"
+    }]
+  }, {
+    "id": 184,
+    "num": "184",
+    "name": "Azumarill",
+    "img": "http://www.serebii.net/pokemongo/pokemon/184.png",
+    "type": [
+      "Water",
+      "Fairy"
+    ],
+    "height": "0.80 m",
+    "weight": "28.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "183",
+      "name": "Marill"
+    }]
+  }, {
+    "id": 185,
+    "num": "185",
+    "name": "Sudowoodo ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/185.png",
+    "type": [
+      "Rock"
+    ],
+    "height": "1.20 m",
+    "weight": "38.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Grass",
+      "Ground",
+      "Steel",
+      "Water"
+    ]
+  }, {
+    "id": 186,
+    "num": "186",
+    "name": "Politoed ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/186.png",
+    "type": [
+      "Water"
+    ],
+    "height": "1.10 m",
+    "weight": "33.9 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "060",
+      "name": "Poliwag"
+    }, {
+      "num": "061",
+      "name": "Poliwhirl"
+    }]
   }]
 }
