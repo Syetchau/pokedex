@@ -4178,5 +4178,312 @@
       "num": "061",
       "name": "Poliwhirl"
     }]
+  }, {
+    "id": 187,
+    "num": "187",
+    "name": "Hoppip  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/187.png",
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "height": "0.40 m",
+    "weight": "0.5 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "188",
+      "name": "Skiploom"
+    }, {
+      "num": "189",
+      "name": "Jumpluff"
+    }]
+  }, {
+    "id": 188,
+    "num": "188",
+    "name": "Skiploom ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/188.png",
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "height": "0.60 m",
+    "weight": "1.0 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "187",
+      "name": "Hoppip"
+    }],
+    "next_evolution": [{
+      "num": "189",
+      "name": "Jumpluff"
+    }]
+  }, {
+    "id": 189,
+    "num": "189",
+    "name": "Jumpluff  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/189.png",
+    "type": [
+      "Grass",
+      "Flying"
+    ],
+    "height": "0.80 m",
+    "weight": "3.0 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "187",
+      "name": "Hoppip"
+    }, {
+      "num": "188",
+      "name": "Skiploom"
+    }] 
+  }, {
+    "id": 190,
+    "num": "190",
+    "name": "Aipom ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/190.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.80 m",
+    "weight": "11.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+   }, {
+    "id": 191,
+    "num": "191",
+    "name": "Sunkern",
+    "img": "http://www.serebii.net/pokemongo/pokemon/191.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.30 m",
+    "weight": "1.8 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "192",
+      "name": "Sunflora"
+    }]
+  }, {
+    "id": 192,
+    "num": "192",
+    "name": "Sunflora",
+    "img": "http://www.serebii.net/pokemongo/pokemon/192.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.80 m",
+    "weight": "8.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "191",
+      "name": "Sunkern"
+    }]
+  }, {
+    "id": 193,
+    "num": "193",
+    "name": "Yanma ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/193.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1.20 m",
+    "weight": "38.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Rock"
+    ]
+  }, {
+    "id": 194,
+    "num": "194",
+    "name": "Wooper",
+    "img": "http://www.serebii.net/pokemongo/pokemon/194.png",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "height": "0.40 m",
+    "weight": "8.5 kg",
+    "weaknesses": [
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "195",
+      "name": "Quagsire"
+    }]
+  }, {
+    "id": 195,
+    "num": "195",
+    "name": "Quagsire",
+    "img": "http://www.serebii.net/pokemongo/pokemon/195.png",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "height": "1.40 m",
+    "weight": "75.0 kg",
+    "weaknesses": [
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "194",
+      "name": "Wooper"
+    }]
+   }, {
+    "id": 196,
+    "num": "196",
+    "name": "Espeon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/196.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.90 m",
+    "weight": "26.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 197,
+    "num": "197",
+    "name": "Umbreon ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/197.png",
+    "type": [
+      "Dark"
+    ],
+    "height": "1.00 m",
+    "weight": "27.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Fairy",
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+   }, {
+    "id": 198,
+    "num": "198",
+    "name": "Murkrow  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/198.png",
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "height": "0.50 m",
+    "weight": "2.1 kg",
+    "weaknesses": [
+      "Electric",
+      "Fairy",
+      "Ice",
+      "Rock"
+    ]
+   }, {
+    "id": 199,
+    "num": "199",
+    "name": "Slowking",
+    "img": "http://www.serebii.net/pokemongo/pokemon/199.png",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "height": "2.00 m",
+    "weight": "79.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost",
+      "Dark"
+    ],
+    "prev_evolution": [{
+      "num": "079",
+      "name": "Slowpoke"
+    }]
+    }, {
+    "id": 200,
+    "num": "200",
+    "name": "Misdreavus  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/200.png",
+    "type": [
+      "Ghost"
+    ],
+    "height": "0.70 m",
+    "weight": "1.0 kg",
+    "weaknesses": [
+      "Dark",
+      "Ghost"
+    ]
+   }, {
+    "id": 201,
+    "num": "201",
+    "name": "Unown  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/201.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.50 m",
+    "weight": "5.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
+   }, {
+    "id": 202,
+    "num": "202",
+    "name": "Wobbuffet  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/202.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.30 m",
+    "weight": "28.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
+
   }]
 }
