@@ -2654,7 +2654,11 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ]
+    ],
+    "prev_evolution": [{
+      "num": "236",
+      "name": "Tyrogue"
+    }]
   }, {
     "id": 107,
     "num": "107",
@@ -2669,7 +2673,11 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "236",
+      "name": "Tyrogue"
+    }]
   }, {
     "id": 108,
     "num": "108",
@@ -2823,6 +2831,9 @@
     "next_evolution": [{
       "num": "117",
       "name": "Seadra"
+    },{
+      "num": "230",
+      "name": "Kingdra"
     }]
   }, {
     "id": 117,
@@ -2838,9 +2849,13 @@
       "Electric",
       "Grass"
     ],
-    "prev_evolution": [{
+      "prev_evolution": [{
       "num": "116",
       "name": "Horsea"
+    }],
+    "next_evolution": [{
+      "num": "230",
+      "name": "Kingdra"
     }]
   }, {
     "id": 118,
@@ -2974,7 +2989,11 @@
       "Ghost",
       "Dark",
       "Steel"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "238",
+      "name": "Smoochum"
+    }]
   }, {
     "id": 125,
     "num": "125",
@@ -2987,7 +3006,11 @@
     "weight": "30.0 kg",
     "weaknesses": [
       "Ground"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "239",
+      "name": "Elekid"
+    }]
   }, {
     "id": 126,
     "num": "126",
@@ -3002,7 +3025,11 @@
       "Water",
       "Ground",
       "Rock"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "240",
+      "name": "Magby"
+    }]
   }, {
     "id": 127,
     "num": "127",
@@ -3193,7 +3220,10 @@
     "weight": "36.5 kg",
     "weaknesses": [
       "Fighting"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "233",
+      "name": "Porygon2"
   }, {
     "id": 138,
     "num": "138",
@@ -3483,7 +3513,7 @@
   }, {
     "id": 153,
     "num": "153",
-    "name": "Bayleef ",
+    "name": "Bayleef",
     "img": "http://www.serebii.net/pokemongo/pokemon/153.png",
     "type": [
       "Grass"
@@ -3508,7 +3538,7 @@
   }, {
     "id": 154,
     "num": "154",
-    "name": "Meganium  ",
+    "name": "Meganium",
     "img": "http://www.serebii.net/pokemongo/pokemon/154.png",
     "type": [
       "Grass"
@@ -3532,7 +3562,7 @@
      }, {
     "id": 155,
     "num": "155",
-    "name": "Cyndaquil ",
+    "name": "Cyndaquil",
     "img": "http://www.serebii.net/pokemongo/pokemon/155.png",
     "type": [
       "Fire"
@@ -3554,7 +3584,7 @@
   }, {
     "id": 156,
     "num": "156",
-    "name": "Quilava ",
+    "name": "Quilava",
     "img": "http://www.serebii.net/pokemongo/pokemon/156.png",
     "type": [
       "Fire"
@@ -3577,7 +3607,7 @@
   }, {
     "id": 157,
     "num": "157",
-    "name": "Typhlosion  ",
+    "name": "Typhlosion",
     "img": "http://www.serebii.net/pokemongo/pokemon/157.png",
     "type": [
       "Fire"
@@ -3599,7 +3629,7 @@
    }, {
     "id": 158,
     "num": "158",
-    "name": "Totodile ",
+    "name": "Totodile",
     "img": "http://www.serebii.net/pokemongo/pokemon/158.png",
     "type": [
       "Water"
@@ -3620,7 +3650,7 @@
   }, {
     "id": 159,
     "num": "159",
-    "name": "Croconaw ",
+    "name": "Croconaw",
     "img": "http://www.serebii.net/pokemongo/pokemon/159.png",
     "type": [
       "Water"
@@ -3642,7 +3672,7 @@
   }, {
     "id": 160,
     "num": "160",
-    "name": "Feraligatr  ",
+    "name": "Feraligatr",
     "img": "http://www.serebii.net/pokemongo/pokemon/160.png",
     "type": [
       "Water"
@@ -4035,7 +4065,7 @@
    }, {
     "id": 179,
     "num": "179",
-    "name": "Mareep  ",
+    "name": "Mareep",
     "img": "http://www.serebii.net/pokemongo/pokemon/179.png",
     "type": [
       "Electric"
@@ -4055,7 +4085,7 @@
   }, {
     "id": 180,
     "num": "180",
-    "name": "Flaaffy ",
+    "name": "Flaaffy",
     "img": "http://www.serebii.net/pokemongo/pokemon/180.png",
     "type": [
       "Electric"
@@ -4076,7 +4106,7 @@
   }, {
     "id": 181,
     "num": "181",
-    "name": "Ampharos  ",
+    "name": "Ampharos",
     "img": "http://www.serebii.net/pokemongo/pokemon/181.png",
     "type": [
       "Electric"
@@ -4160,7 +4190,7 @@
   }, {
     "id": 185,
     "num": "185",
-    "name": "Sudowoodo ",
+    "name": "Sudowoodo",
     "img": "http://www.serebii.net/pokemongo/pokemon/185.png",
     "type": [
       "Rock"
@@ -4177,7 +4207,7 @@
   }, {
     "id": 186,
     "num": "186",
-    "name": "Politoed ",
+    "name": "Politoed",
     "img": "http://www.serebii.net/pokemongo/pokemon/186.png",
     "type": [
       "Water"
@@ -4198,7 +4228,7 @@
   }, {
     "id": 187,
     "num": "187",
-    "name": "Hoppip  ",
+    "name": "Hoppip",
     "img": "http://www.serebii.net/pokemongo/pokemon/187.png",
     "type": [
       "Grass",
@@ -4223,7 +4253,7 @@
   }, {
     "id": 188,
     "num": "188",
-    "name": "Skiploom ",
+    "name": "Skiploom",
     "img": "http://www.serebii.net/pokemongo/pokemon/188.png",
     "type": [
       "Grass",
@@ -4249,7 +4279,7 @@
   }, {
     "id": 189,
     "num": "189",
-    "name": "Jumpluff  ",
+    "name": "Jumpluff",
     "img": "http://www.serebii.net/pokemongo/pokemon/189.png",
     "type": [
       "Grass",
@@ -4274,7 +4304,7 @@
   }, {
     "id": 190,
     "num": "190",
-    "name": "Aipom ",
+    "name": "Aipom",
     "img": "http://www.serebii.net/pokemongo/pokemon/190.png",
     "type": [
       "Normal"
@@ -4329,7 +4359,7 @@
   }, {
     "id": 193,
     "num": "193",
-    "name": "Yanma ",
+    "name": "Yanma",
     "img": "http://www.serebii.net/pokemongo/pokemon/193.png",
     "type": [
       "Bug",
@@ -4402,7 +4432,7 @@
   }, {
     "id": 197,
     "num": "197",
-    "name": "Umbreon ",
+    "name": "Umbreon",
     "img": "http://www.serebii.net/pokemongo/pokemon/197.png",
     "type": [
       "Dark"
@@ -4421,7 +4451,7 @@
    }, {
     "id": 198,
     "num": "198",
-    "name": "Murkrow  ",
+    "name": "Murkrow",
     "img": "http://www.serebii.net/pokemongo/pokemon/198.png",
     "type": [
       "Dark",
@@ -4460,7 +4490,7 @@
     }, {
     "id": 200,
     "num": "200",
-    "name": "Misdreavus  ",
+    "name": "Misdreavus",
     "img": "http://www.serebii.net/pokemongo/pokemon/200.png",
     "type": [
       "Ghost"
@@ -4474,7 +4504,7 @@
    }, {
     "id": 201,
     "num": "201",
-    "name": "Unown  ",
+    "name": "Unown",
     "img": "http://www.serebii.net/pokemongo/pokemon/201.png",
     "type": [
       "Psychic"
@@ -4489,7 +4519,7 @@
    }, {
     "id": 202,
     "num": "202",
-    "name": "Wobbuffet  ",
+    "name": "Wobbuffet",
     "img": "http://www.serebii.net/pokemongo/pokemon/202.png",
     "type": [
       "Psychic"
@@ -4504,7 +4534,7 @@
    }, {
     "id": 203,
     "num": "203",
-    "name": "Girafarig  ",
+    "name": "Girafarig",
     "img": "http://www.serebii.net/pokemongo/pokemon/203.png",
     "type": [
       "Normal",
@@ -4556,7 +4586,7 @@
    }, {
     "id": 206,
     "num": "206",
-    "name": "Dunsparce  ",
+    "name": "Dunsparce",
     "img": "http://www.serebii.net/pokemongo/pokemon/206.png",
     "type": [
       "Normal"
@@ -4569,7 +4599,7 @@
    }, {
     "id": 207,
     "num": "207",
-    "name": "Gligar  ",
+    "name": "Gligar",
     "img": "http://www.serebii.net/pokemongo/pokemon/207.png",
     "type": [
       "Ground",
@@ -4641,7 +4671,7 @@
    }, {
     "id": 211,
     "num": "211",
-    "name": "Qwilfish  ",
+    "name": "Qwilfish",
     "img": "http://www.serebii.net/pokemongo/pokemon/211.png",
     "type": [
       "Water",
@@ -4657,7 +4687,7 @@
    }, {
     "id": 212,
     "num": "212",
-    "name": "Scizor ",
+    "name": "Scizor",
     "img": "http://www.serebii.net/pokemongo/pokemon/212.png",
     "type": [
       "Bug",
@@ -4675,7 +4705,7 @@
    }, {
     "id": 213,
     "num": "213",
-    "name": "Shuckle  ",
+    "name": "Shuckle",
     "img": "http://www.serebii.net/pokemongo/pokemon/213.png",
     "type": [
       "Bug",
@@ -4691,7 +4721,7 @@
   }, {
     "id": 214,
     "num": "214",
-    "name": "Heracross  ",
+    "name": "Heracross",
     "img": "http://www.serebii.net/pokemongo/pokemon/214.png",
     "type": [
       "Bug",
@@ -4708,7 +4738,7 @@
   }, {
     "id": 215,
     "num": "215",
-    "name": "Sneasel  ",
+    "name": "Sneasel",
     "img": "http://www.serebii.net/pokemongo/pokemon/215.png",
     "type": [
       "Dark",
@@ -4780,7 +4810,7 @@
   }, {
     "id": 219,
     "num": "219",
-    "name": "Magcargo ",
+    "name": "Magcargo",
     "img": "http://www.serebii.net/pokemongo/pokemon/219.png",
     "type": [
       "Fire",
@@ -4823,7 +4853,7 @@
   }, {
     "id": 221,
     "num": "221",
-    "name": "Piloswine ",
+    "name": "Piloswine",
     "img": "http://www.serebii.net/pokemongo/pokemon/221.png",
     "type": [
       "Ice",
@@ -4845,7 +4875,7 @@
    }, {
     "id": 222,
     "num": "222",
-    "name": "Corsola   ",
+    "name": "Corsola",
     "img": "http://www.serebii.net/pokemongo/pokemon/222.png",
     "type": [
       "Water",
@@ -4880,7 +4910,7 @@
   }, {
     "id": 224,
     "num": "224",
-    "name": "Octillery ",
+    "name": "Octillery",
     "img": "http://www.serebii.net/pokemongo/pokemon/224.png",
     "type": [
       "Water"
@@ -4898,7 +4928,7 @@
    }, {
     "id": 225,
     "num": "225",
-    "name": "Delibird   ",
+    "name": "Delibird",
     "img": "http://www.serebii.net/pokemongo/pokemon/225.png",
     "type": [
       "Ice",
@@ -4915,7 +4945,7 @@
    }, {
     "id": 226,
     "num": "226",
-    "name": "Mantine   ",
+    "name": "Mantine",
     "img": "http://www.serebii.net/pokemongo/pokemon/226.png",
     "type": [
       "Water",
@@ -4930,7 +4960,7 @@
    }, {
     "id": 227,
     "num": "227",
-    "name": "Skarmory    ",
+    "name": "Skarmory",
     "img": "http://www.serebii.net/pokemongo/pokemon/227.png",
     "type": [
       "Steel",
@@ -4942,6 +4972,254 @@
       "Electric",
       "Fire"
     ]
+   }, {
+    "id": 228,
+    "num": "228",
+    "name": "Houndour",
+    "img": "http://www.serebii.net/pokemongo/pokemon/228.png",
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "height": "0.60 m",
+    "weight": "10.8 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "229",
+      "name": "Houndoom "
+    }]
+  }, {
+    "id": 229,
+    "num": "229",
+    "name": "Houndoom",
+    "img": "http://www.serebii.net/pokemongo/pokemon/229.png",
+    "type": [
+      "Dark",
+      "Fire"
+    ],
+    "height": "1.40 m",
+    "weight": "35.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "228",
+      "name": "Houndour"
+    }]
+   }, {
+    "id": 230,
+    "num": "230",
+    "name": "Kingdra",
+    "img": "http://www.serebii.net/pokemongo/pokemon/230.png",
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "height": "1.80 m",
+    "weight": "152.0 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy"
+    ],
+    "prev_evolution": [{
+      "num": "116",
+      "name": "Horsea"
+    },{
+      "num": "117",
+      "name" "Seadra"
+    }]
+   }, {
+    "id": 231,
+    "num": "231",
+    "name": "Phanpy",
+    "img": "http://www.serebii.net/pokemongo/pokemon/231.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.50 m",
+    "weight": "33.5 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "232",
+      "name": "Houndoom "
+    }]
+  }, {
+    "id": 232,
+    "num": "232",
+    "name": "Donphan",
+    "img": "http://www.serebii.net/pokemongo/pokemon/232.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "1.10 m",
+    "weight": "120.0 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "231",
+      "name": "Phanpy"
+    }]
+   }, {
+    "id": 233,
+    "num": "233",
+    "name": "Porygon2",
+    "img": "http://www.serebii.net/pokemongo/pokemon/233.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.60 m",
+    "weight": "32.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "137",
+      "name": "Porygon"
+    }]
+  }, {
+    "id": 234,
+    "num": "234",
+    "name": "Stantler",
+    "img": "http://www.serebii.net/pokemongo/pokemon/234.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.40 m",
+    "weight": "71.2 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 235,
+    "num": "235",
+    "name": "Smeargle",
+    "img": "http://www.serebii.net/pokemongo/pokemon/235.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.20 m",
+    "weight": "58.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+ }, {
+    "id": 236,
+    "num": "236",
+    "name": "Tyrogue",
+    "img": "http://www.serebii.net/pokemongo/pokemon/236.png",
+    "type": [
+      "Fighting"
+    ],
+    "height": "0.70 m",
+    "weight": "21.0 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "106",
+      "name": "Hitmonlee"
+    },{
+      "num": "107",
+      "name": "Hitmonchan"
+    },{
+      "num": "237",
+      "name": "Hitmontop"
+    }]
+  }, {
+    "id": 237,
+    "num": "237",
+    "name": "Hitmontop",
+    "img": "http://www.serebii.net/pokemongo/pokemon/237.png",
+    "type": [
+      "Fighting"
+    ],
+    "height": "1.40 m",
+    "weight": "48.0 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "236",
+      "name": "Tyrogue"
+    }]
+   }, {
+    "id": 238,
+    "num": "238",
+    "name": "Smoochum",
+    "img": "http://www.serebii.net/pokemongo/pokemon/238.png",
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "height": "0.40 m",
+    "weight": "6.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Rock",
+      "Steel"
+    ],
+    "next_evolution": [{
+      "num": "124",
+      "name": "Jynx"
+    }]
+   }, {
+    "id": 239,
+    "num": "239",
+    "name": "Elekid",
+    "img": "http://www.serebii.net/pokemongo/pokemon/239.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.60 m",
+    "weight": "23.5 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "125",
+      "name": "Electabuzz"
+    }]
+    }, {
+    "id": 240,
+    "num": "240",
+    "name": "Magby",
+    "img": "http://www.serebii.net/pokemongo/pokemon/240.png",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.70 m",
+    "weight": "21.4 kg",
+    "weaknesses": [
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "126",
+      "name": "Magmar"
+    }]
 
   }]
 }
