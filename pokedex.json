@@ -4966,24 +4966,25 @@
   }, {
     "id": 229,
     "num": "229",
-    "name": "Houndoom",
+    "name": "Houndoom ",
     "img": "http://www.serebii.net/pokemongo/pokemon/229.png",
     "type": [
       "Dark",
-      "Fire"
+      "Fighting"
     ],
     "height": "1.40 m",
     "weight": "35.0 kg",
     "weaknesses": [
-      "Fighting",
+     "Fighting",
       "Ground",
       "Rock",
       "Water"
     ],
     "prev_evolution": [{
       "num": "228",
-      "name": "Houndour"
+      "name": "Houndoom"
     }]
+
 
   }]
 }
