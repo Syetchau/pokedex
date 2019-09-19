@@ -2823,6 +2823,9 @@
     "next_evolution": [{
       "num": "117",
       "name": "Seadra"
+    },{
+      "num": "118",
+      "name": "Kingdra"
     }]
   }, {
     "id": 117,
@@ -2841,6 +2844,10 @@
     "prev_evolution": [{
       "num": "116",
       "name": "Horsea"
+    }],
+    "next_evolution": [{
+      "num": "230",
+      "name": "Kingdra"
     }]
   }, {
     "id": 118,
