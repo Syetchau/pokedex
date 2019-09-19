@@ -4672,6 +4672,276 @@
       "num": "123",
       "name": "Scyther"
     }]
+   }, {
+    "id": 213,
+    "num": "213",
+    "name": "Shuckle  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/213.png",
+    "type": [
+      "Bug",
+      "Rock"
+    ],
+    "height": "0.60 m",
+    "weight": "20.5 kg",
+    "weaknesses": [
+      "Rock",
+      "Steel",
+      "Water"
+    ]
+  }, {
+    "id": 214,
+    "num": "214",
+    "name": "Heracross  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/214.png",
+    "type": [
+      "Bug",
+      "Fighting"
+    ],
+    "height": "1.50 m",
+    "weight": "54.0 kg",
+    "weaknesses": [
+      "Fairy",
+      "Fire",
+      "Flying",
+      "Psychic"
+    ]
+  }, {
+    "id": 215,
+    "num": "215",
+    "name": "Sneasel  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/215.png",
+    "type": [
+      "Dark",
+      "Ice"
+    ],
+    "height": "0.90 m",
+    "weight": "28.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Fairy",
+      "Fighting",
+      "Fire",
+      "Rock",
+      "Steel"
+    ]
+   }, {
+    "id": 216,
+    "num": "216",
+    "name": "Teddiursa",
+    "img": "http://www.serebii.net/pokemongo/pokemon/216.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.60 m",
+    "weight": "8.8 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "217",
+      "name": "Ursaring"
+    }]
+  }, {
+    "id": 217,
+    "num": "217",
+    "name": "Ursaring",
+    "img": "http://www.serebii.net/pokemongo/pokemon/217.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.80 m",
+    "weight": "125.8 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "216",
+      "name": "Teddiursa"
+    }]
+   }, {
+    "id": 218,
+    "num": "218",
+    "name": "Slugma",
+    "img": "http://www.serebii.net/pokemongo/pokemon/218.png",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.70 m",
+    "weight": "35.0 kg",
+    "weaknesses": [
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "219",
+      "name": "Magcargo "
+    }]
+  }, {
+    "id": 219,
+    "num": "219",
+    "name": "Magcargo ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/219.png",
+    "type": [
+      "Fire",
+      "Rock"
+    ],
+    "height": "0.80 m",
+    "weight": "55.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "218",
+      "name": "Slugma"
+    }]
+   }, {
+    "id": 220,
+    "num": "220",
+    "name": "Swinub",
+    "img": "http://www.serebii.net/pokemongo/pokemon/220.png",
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "height": "0.40 m",
+    "weight": "6.5 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Grass",
+      "Steel",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "221",
+      "name": "Piloswine "
+    }]
+  }, {
+    "id": 221,
+    "num": "221",
+    "name": "Piloswine ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/221.png",
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "height": "1.10 m",
+    "weight": "55.8 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Grass",
+      "Steel",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "220",
+      "name": "Swinub"
+    }]
+   }, {
+    "id": 222,
+    "num": "222",
+    "name": "Corsola   ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/222.png",
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "height": "0.60 m",
+    "weight": "5.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Fighting",
+      "Grass",
+      "Ground"
+    ]
+   }, {
+    "id": 223,
+    "num": "223",
+    "name": "Remoraid",
+    "img": "http://www.serebii.net/pokemongo/pokemon/223.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.60 m",
+    "weight": "12.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "224",
+      "name": "Octillery "
+    }]
+  }, {
+    "id": 224,
+    "num": "224",
+    "name": "Octillery ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/224.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.90 m",
+    "weight": "28.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "223",
+      "name": "Remoraid"
+    }]
+   }, {
+    "id": 225,
+    "num": "225",
+    "name": "Delibird   ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/225.png",
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "height": "0.90 m",
+    "weight": "16.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Rock",
+      "Steel"
+    ]
+   }, {
+    "id": 226,
+    "num": "226",
+    "name": "Mantine   ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/226.png",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "height": "2.10 m",
+    "weight": "222.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ]
+   }, {
+    "id": 227,
+    "num": "227",
+    "name": "Skarmory    ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/227.png",
+    "type": [
+      "Steel",
+      "Flying"
+    ],
+    "height": "1.70 m",
+    "weight": "50.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire"
+    ]
 
   }]
 }
