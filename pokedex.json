@@ -2030,6 +2030,9 @@
     "next_evolution": [{
       "num": "080",
       "name": "Slowbro"
+    },{
+      "num": "199",
+      "name": "Slowking"
     }]
   }, {
     "id": 80,
@@ -3109,6 +3112,12 @@
     }, {
       "num": "136",
       "name": "Flareon"
+    },{
+      "num": "196",
+      "name": "Espeon"
+    },{
+      "num": "197",
+      "name": "Umbreon"
     }]
   }, {
     "id": 134,
