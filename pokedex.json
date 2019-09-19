@@ -2390,7 +2390,11 @@
       "Fighting",
       "Ground",
       "Steel"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "208",
+      "name": "Steelix"
+    }]
   }, {
     "id": 96,
     "num": "096",
@@ -2947,7 +2951,11 @@
       "Ice",
       "Flying",
       "Rock"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "212",
+      "name": "Scizor"
+    }]
   }, {
     "id": 124,
     "num": "124",
@@ -4493,6 +4501,177 @@
       "Dark",
       "Ghost"
     ]
+   }, {
+    "id": 203,
+    "num": "203",
+    "name": "Girafarig  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/203.png",
+    "type": [
+      "Normal",
+      "Psychic"
+    ],
+    "height": "1.50 m",
+    "weight": "41.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark"
+    ]
+  }, {
+    "id": 204,
+    "num": "204",
+    "name": "Pineco",
+    "img": "http://www.serebii.net/pokemongo/pokemon/204.png",
+    "type": [
+      "Bug"
+    ],
+    "height": "0.60 m",
+    "weight": "7.2 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "205",
+      "name": "Forretress"
+    }]
+  }, {
+    "id": 205,
+    "num": "205",
+    "name": "Forretress",
+    "img": "http://www.serebii.net/pokemongo/pokemon/205.png",
+    "type": [
+      "Bug",
+      "Steel"
+    ],
+    "height": "1.20 m",
+    "weight": "125.8 kg",
+    "weaknesses": [
+      "Fire"
+    ],
+    "prev_evolution": [{
+      "num": "204",
+      "name": "Pineco"
+    }]
+   }, {
+    "id": 206,
+    "num": "206",
+    "name": "Dunsparce  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/206.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.50 m",
+    "weight": "14.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+   }, {
+    "id": 207,
+    "num": "207",
+    "name": "Gligar  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/207.png",
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "height": "1.10 m",
+    "weight": "64.8 kg",
+    "weaknesses": [
+      "Ice",
+      "Water"
+    ]
+   }, {
+    "id": 208,
+    "num": "208",
+    "name": "Steelix",
+    "img": "http://www.serebii.net/pokemongo/pokemon/208.png",
+    "type": [
+      "Steel",
+      "Ground"
+    ],
+    "height": "9.20 m",
+    "weight": "400.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Ground",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "095",
+      "name": "Onix"
+    }]
+    }, {
+    "id": 209,
+    "num": "209",
+    "name": "Snubbull",
+    "img": "http://www.serebii.net/pokemongo/pokemon/209.png",
+    "type": [
+      "Fairy"
+    ],
+    "height": "0.60 m",
+    "weight": "7.8 kg",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "210",
+      "name": "Granbull"
+    }]
+  }, {
+    "id": 210,
+    "num": "210",
+    "name": "Granbull",
+    "img": "http://www.serebii.net/pokemongo/pokemon/210.png",
+    "type": [
+      "Fairy"
+    ],
+    "height": "1.40 m",
+    "weight": "48.7 kg",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "209",
+      "name": "Snubbull"
+    }]
+   }, {
+    "id": 211,
+    "num": "211",
+    "name": "Qwilfish  ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/211.png",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "height": "0.50 m",
+    "weight": "3.9 kg",
+    "weaknesses": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ]
+   }, {
+    "id": 212,
+    "num": "212",
+    "name": "Scizor ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/212.png",
+    "type": [
+      "Bug",
+      "Steel"
+    ],
+    "height": "1.80 m",
+    "weight": "118.0 kg",
+    "weaknesses": [
+      "Fire"
+    ],
+    "prev_evolution": [{
+      "num": "123",
+      "name": "Scyther"
+    }]
 
   }]
 }
