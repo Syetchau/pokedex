@@ -2655,7 +2655,7 @@
       "Psychic",
       "Fairy"
      ],
-    "next_evolution": [{
+    "prev_evolution": [{
       "num": "236",
       "name": "Tyrogue"
     }]
@@ -2674,7 +2674,7 @@
       "Psychic",
       "Fairy"
      ],
-    "next_evolution": [{
+    "prev_evolution": [{
       "num": "236",
       "name": "Tyrogue"
     }]
@@ -2990,7 +2990,7 @@
       "Dark",
       "Steel"
      ],
-    "next_evolution": [{
+    "prev_evolution": [{
       "num": "238",
       "name": "Smoochum"
     }]
@@ -3007,7 +3007,7 @@
     "weaknesses": [
       "Ground"
      ],
-    "next_evolution": [{
+    "prev_evolution": [{
       "num": "239",
       "name": "Elekid"
     }]
@@ -3026,7 +3026,7 @@
       "Ground",
       "Rock"
      ],
-    "next_evolution": [{
+    "prev_evolution": [{
       "num": "240",
       "name": "Magby"
     }]
