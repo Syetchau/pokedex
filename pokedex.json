@@ -2654,7 +2654,11 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "236",
+      "name": "Tyrogue"
+    }]
   }, {
     "id": 107,
     "num": "107",
@@ -2669,7 +2673,11 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "236",
+      "name": "Tyrogue"
+    }]
   }, {
     "id": 108,
     "num": "108",
@@ -2981,7 +2989,11 @@
       "Ghost",
       "Dark",
       "Steel"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "238",
+      "name": "Smoochum"
+    }]
   }, {
     "id": 125,
     "num": "125",
@@ -2994,7 +3006,11 @@
     "weight": "30.0 kg",
     "weaknesses": [
       "Ground"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "239",
+      "name": "Elekid"
+    }]
   }, {
     "id": 126,
     "num": "126",
@@ -3009,7 +3025,11 @@
       "Water",
       "Ground",
       "Rock"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "240",
+      "name": "Magby"
+    }]
   }, {
     "id": 127,
     "num": "127",
@@ -3200,7 +3220,11 @@
     "weight": "36.5 kg",
     "weaknesses": [
       "Fighting"
-    ]
+    ],
+    "next_evolution": [{
+      "num": "233",
+      "name": "Porygon2"
+    }]
   }, {
     "id": 138,
     "num": "138",
@@ -5013,7 +5037,7 @@
       "num": "117",
       "name": "Seadra"
     }]
-  
+
   
   
    }, {
@@ -5033,7 +5057,7 @@
     ],
     "next_evolution": [{
       "num": "232",
-      "name": "Houndoom "
+      "name": "Donphan "
     }]
   }, {
     "id": 232,
