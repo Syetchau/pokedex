@@ -5041,9 +5041,6 @@
       "num": "117",
       "name": "Seadra"
     }]
-
-  
-  
    }, {
     "id": 231,
     "num": "231",
@@ -5303,7 +5300,7 @@
   }, {
     "id": 246,
     "num": "246",
-    "name": "Larvitar  ",
+    "name": "Larvitar",
     "img": "http://www.serebii.net/pokemongo/pokemon/246.png",
     "type": [
       "Rock",
@@ -5329,7 +5326,7 @@
   }, {
     "id": 247,
     "num": "247",
-    "name": "Pupitar ",
+    "name": "Pupitar",
     "img": "http://www.serebii.net/pokemongo/pokemon/247.png",
     "type": [
       "Rock",
@@ -5356,7 +5353,7 @@
   }, {
     "id": 248,
     "num": "248",
-    "name": "Tyranitar  ",
+    "name": "Tyranitar",
     "img": "http://www.serebii.net/pokemongo/pokemon/248.png",
     "type": [
       "Rock",
@@ -5434,7 +5431,285 @@
       "Ice",
       "Poison"
     ]
-
-
+   }, {
+    "id": 252,
+    "num": "252",
+    "name": "Treecko",
+    "img": "http://www.serebii.net/pokemongo/pokemon/252.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.50 m",
+    "weight": "5.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "253",
+      "name": "Grovyle"
+    }, {
+      "num": "254",
+      "name": "Sceptile"
+    }]
+  }, {
+    "id": 253,
+    "num": "253",
+    "name": "Grovyle",
+    "img": "http://www.serebii.net/pokemongo/pokemon/253.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.90 m",
+    "weight": "21.6 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "252",
+      "name": "Treecko"
+    }],
+    "next_evolution": [{
+      "num": "254",
+      "name": "Sceptile"
+    }]
+  }, {
+    "id": 254,
+    "num": "254",
+    "name": "Sceptile",
+    "img": "http://www.serebii.net/pokemongo/pokemon/254.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "1.70 m",
+    "weight": "52.2 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "252",
+      "name": "Treecko"
+    }, {
+      "num": "253",
+      "name": "Grovyle"
+    }] 
+  }, {
+    "id": 255,
+    "num": "255",
+    "name": "Torchic",
+    "img": "http://www.serebii.net/pokemongo/pokemon/255.png",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.40 m",
+    "weight": "2.5 kg",
+    "weaknesses": [
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "256",
+      "name": "Combusken"
+    }, {
+      "num": "257",
+      "name": "Blaziken"
+    }]
+  }, {
+    "id": 256,
+    "num": "256",
+    "name": "Combusken",
+    "img": "http://www.serebii.net/pokemongo/pokemon/256.png",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "height": "0.90 m",
+    "weight": "19.5 kg",
+    "weaknesses": [
+      "Flying",
+      "Ground",
+      "Psychic",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "255",
+      "name": "Torchic"
+    }],
+    "next_evolution": [{
+      "num": "257",
+      "name": "Blaziken"
+    }]
+  }, {
+    "id": 257,
+    "num": "257",
+    "name": "Blaziken",
+    "img": "http://www.serebii.net/pokemongo/pokemon/257.png",
+    "type": [
+      "Fire",
+      "Fighting"
+    ],
+    "height": "1.90 m",
+    "weight": "52.0 kg",
+    "weaknesses": [
+      "Flying",
+      "Ground",
+      "Psychic",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "255",
+      "name": "Torchic"
+    }, {
+      "num": "256",
+      "name": "Combusken"
+    }] 
+   }, {
+    "id": 258,
+    "num": "258",
+    "name": "Mudkip",
+    "img": "http://www.serebii.net/pokemongo/pokemon/258.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.40 m",
+    "weight": "7.6 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "259",
+      "name": "Marshtomp"
+    }, {
+      "num": "260",
+      "name": "Swampert"
+    }]
+  }, {
+    "id": 259,
+    "num": "259",
+    "name": "Marshtomp",
+    "img": "http://www.serebii.net/pokemongo/pokemon/259.png",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "height": "0.70 m",
+    "weight": "28.0 kg",
+    "weaknesses": [
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "258",
+      "name": "Mudkip"
+    }],
+    "next_evolution": [{
+      "num": "260",
+      "name": "Swampert"
+    }]
+  }, {
+    "id": 260,
+    "num": "260",
+    "name": "Swampert",
+    "img": "http://www.serebii.net/pokemongo/pokemon/260.png",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "height": "1.50 m",
+    "weight": "81.9 kg",
+    "weaknesses": [
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "258",
+      "name": "Mudkip"
+    }, {
+      "num": "259",
+      "name": "Marshtomp"
+    }] 
+  }, {
+    "id": 261,
+    "num": "261",
+    "name": "Poochyena",
+    "img": "http://www.serebii.net/pokemongo/pokemon/261.png",
+    "type": [
+      "Dark"
+    ],
+    "height": "0.50 m",
+    "weight": "13.6 kg",
+    "weaknesses": [
+      "Bug",
+      "Fairy",
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "262",
+      "name": "Mightyena"
+    }]
+  }, {
+    "id": 262,
+    "num": "262",
+    "name": "Mightyena",
+    "img": "http://www.serebii.net/pokemongo/pokemon/262.png",
+    "type": [
+      "Dark"
+    ],
+    "height": "1.00 m",
+    "weight": "37.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Fairy",
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "261",
+      "name": "Poochyena"
+    }]
+  }, {
+    "id": 263,
+    "num": "263",
+    "name": "Zigzagoon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/263.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.40 m",
+    "weight": "17.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "264",
+      "name": "Linoone"
+    }]
+  }, {
+    "id": 264,
+    "num": "264",
+    "name": "Linoone",
+    "img": "http://www.serebii.net/pokemongo/pokemon/264.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.50 m",
+    "weight": "32.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "263",
+      "name": "Zigzagoon"
+    }]
   }]
 }
