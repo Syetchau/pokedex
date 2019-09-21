@@ -7095,7 +7095,7 @@
     "weaknesses": [
       "Bug",
       "Fairy",
-      "Fighting"
+      "Fighting",
       "Fire",
       "Flying",
       "Ice",
@@ -7138,7 +7138,7 @@
     "weight": "20.6 kg",
     "weaknesses": [
       "Dragon",
-      "Fairy"
+      "Fairy",
       "Ice",
       "Rock"
     ],
