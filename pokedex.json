@@ -4168,6 +4168,10 @@
       "Grass",
       "Poison"
     ],
+     "prev_evolution": [{
+      "num": "298",
+      "name": "Azurill"
+    }],
     "next_evolution": [{
       "num": "184",
       "name": "Azumarill"
@@ -4189,6 +4193,9 @@
       "Poison"
     ],
     "prev_evolution": [{
+      "num": "298",
+      "name": "Azurill"
+    },{
       "num": "183",
       "name": "Marill"
     }]
@@ -6278,6 +6285,195 @@
       "num": "288",
       "name": "Vigoroth"
     }] 
+ }, {
+    "id": 290,
+    "num": "290",
+    "name": "Nincada",
+    "img": "http://www.serebii.net/pokemongo/pokemon/290.png",
+    "type": [
+      "Bug",
+      "Ground"
+    ],
+    "height": "0.50 m",
+    "weight": "5.5 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Ice",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "291",
+      "name": "Ninjask"
+    }, {
+      "num": "292",
+      "name": "Shedinja"
+    }]
+  }, {
+    "id": 291,
+    "num": "291",
+    "name": "Ninjask",
+    "img": "http://www.serebii.net/pokemongo/pokemon/291.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "0.80 m",
+    "weight": "12.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "290",
+      "name": "Nincada"
+    }]
+  }, {
+    "id": 292,
+    "num": "292",
+    "name": "Shedinja",
+    "img": "http://www.serebii.net/pokemongo/pokemon/292.png",
+    "type": [
+      "Bug",
+      "Ghost"
+    ],
+    "height": "0.80 m",
+    "weight": "1.2 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Flying",
+      "Ghost",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "290",
+      "name": "Nincada"
+    }]
+}, {
+    "id": 293,
+    "num": "293",
+    "name": "Whismur",
+    "img": "http://www.serebii.net/pokemongo/pokemon/293.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.60 m",
+    "weight": "16.3 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "294",
+      "name": "Loudred"
+    }, {
+      "num": "295",
+      "name": "Exploud"
+    }]
+  }, {
+    "id": 294,
+    "num": "294",
+    "name": "Loudred",
+    "img": "http://www.serebii.net/pokemongo/pokemon/294.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.00 m",
+    "weight": "40.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "293",
+      "name": "Whismur"
+    }],
+    "next_evolution": [{
+      "num": "295",
+      "name": "Exploud"
+    }]
+  }, {
+    "id": 295,
+    "num": "295",
+    "name": "Exploud",
+    "img": "http://www.serebii.net/pokemongo/pokemon/295.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.50 m",
+    "weight": "84.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "293",
+      "name": "Whismur"
+    }, {
+      "num": "294",
+      "name": "Loudred"
+    }] 
+ }, {
+    "id": 296,
+    "num": "296",
+    "name": "Makuhita",
+    "img": "http://www.serebii.net/pokemongo/pokemon/296.png",
+    "type": [
+      "Fighting"
+    ],
+    "height": "1.00 m",
+    "weight": "86.4 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "297",
+      "name": "Hariyama"
+    }]
+  }, {
+    "id": 297,
+    "num": "297",
+    "name": "Hariyama",
+    "img": "http://www.serebii.net/pokemongo/pokemon/297.png",
+    "type": [
+      "Fighting"
+    ],
+    "height": "2.30 m",
+    "weight": "253.8 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "296",
+      "name": "Makuhita"
+    }]
+ }, {
+    "id": 298,
+    "num": "298",
+    "name": "Azurill",
+    "img": "http://www.serebii.net/pokemongo/pokemon/298.png",
+    "type": [
+      "Normal",
+      "Fairy"
+    ],
+    "height": "0.20 m",
+    "weight": "2.0 kg",
+    "weaknesses": [
+      "Steel",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "183",
+      "name": "Marill"
+    },{
+      "num": "184",
+      "name": "Azumarill"
+    }]
 
 
   }]
