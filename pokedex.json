@@ -7247,6 +7247,239 @@
       "num": "339",
       "name": "Barboach"
     }]
+  }, {
+    "id": 341,
+    "num": "341",
+    "name": "Corphish",
+    "img": "http://www.serebii.net/pokemongo/pokemon/341.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.60 m",
+    "weight": "11.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "342",
+      "name": "Crawdaunt"
+    }]
+  }, {
+    "id": 342,
+    "num": "342",
+    "name": "Crawdaunt",
+    "img": "http://www.serebii.net/pokemongo/pokemon/342.png",
+    "type": [
+      "Water",
+      "Dark"
+    ],
+    "height": "1.10 m",
+    "weight": "32.8 kg",
+    "weaknesses": [
+      "Bug",
+      "Electric",
+      "Fairy",
+      "Fighting",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "341",
+      "name": "Corphish"
+    }]
+ }, {
+    "id": 343,
+    "num": "343",
+    "name": "Baltoy",
+    "img": "http://www.serebii.net/pokemongo/pokemon/343.png",
+    "type": [
+      "Ground",
+      "Psychic"
+    ],
+    "height": "0.50 m",
+    "weight": "21.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost",
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "344",
+      "name": "Claydol"
+    }]
+  }, {
+    "id": 344,
+    "num": "344",
+    "name": "Claydol",
+    "img": "http://www.serebii.net/pokemongo/pokemon/344.png",
+    "type": [
+      "Ground",
+      "Psychic"
+    ],
+    "height": "1.50 m",
+    "weight": "108.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost",
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "343",
+      "name": "Baltoy"
+    }]
+   }, {
+    "id": 345,
+    "num": "345",
+    "name": "Lileep",
+    "img": "http://www.serebii.net/pokemongo/pokemon/345.png",
+    "type": [
+      "Rock",
+      "Grass"
+    ],
+    "height": "1.00 m",
+    "weight": "23.8 kg",
+    "weaknesses": [
+      "Bug",
+      "Fighting",
+      "Ice",
+      "Steel"
+    ],
+    "next_evolution": [{
+      "num": "346",
+      "name": "Cradily"
+    }]
+  }, {
+    "id": 346,
+    "num": "346",
+    "name": "Cradily",
+    "img": "http://www.serebii.net/pokemongo/pokemon/346.png",
+    "type": [
+      "Rock",
+      "Grass"
+    ],
+    "height": "1.50 m",
+    "weight": "60.4 kg",
+    "weaknesses": [
+      "Bug",
+      "Fighting",
+      "Ice",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "345",
+      "name": "Lileep"
+    }]
+   }, {
+    "id": 347,
+    "num": "347",
+    "name": "Anorith",
+    "img": "http://www.serebii.net/pokemongo/pokemon/347.png",
+    "type": [
+      "Rock",
+      "Bug"
+    ],
+    "height": "0.70 m",
+    "weight": "12.5 kg",
+    "weaknesses": [
+      "Rock",
+      "Steel",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "348",
+      "name": "Armaldo"
+    }]
+  }, {
+    "id": 348,
+    "num": "348",
+    "name": "Armaldo",
+    "img": "http://www.serebii.net/pokemongo/pokemon/348.png",
+    "type": [
+      "Rock",
+      "Bug"
+    ],
+    "height": "1.50 m",
+    "weight": "68.2 kg",
+    "weaknesses": [
+      "Rock",
+      "Steel",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "347",
+      "name": "Anorith"
+    }]
+   }, {
+    "id": 349,
+    "num": "349",
+    "name": "Feebas",
+    "img": "http://www.serebii.net/pokemongo/pokemon/349.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.60 m",
+    "weight": "7.4 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "350",
+      "name": "Milotic"
+    }]
+  }, {
+    "id": 350,
+    "num": "350",
+    "name": "Milotic",
+    "img": "http://www.serebii.net/pokemongo/pokemon/350.png",
+    "type": [
+      "Water"
+    ],
+    "height": "6.20 m",
+    "weight": "162.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "349",
+      "name": "Feebas"
+    }]
+  }, {
+    "id": 351,
+    "num": "351",
+    "name": "Castform",
+    "img": "http://www.serebii.net/pokemongo/pokemon/351.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.30 m",
+    "weight": "0.8 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 351,
+    "num": "351",
+    "name": "Castform(Sunny Form)",
+    "img": "https://www.serebii.net/pokemongo/pokemon/351-s.png",
+    "type": [
+      "Fire"
+    ],
+    "height": "0.30 m",
+    "weight": "0.8 kg",
+    "weaknesses": [
+      "Ground",
+      "Rock",
+      "Water"
+    ]
+
 
   }]
 }
