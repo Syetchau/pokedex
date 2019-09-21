@@ -6001,7 +6001,7 @@
     ],
     "next_evolution": [{
       "num": "277",
-      "name": "Linoone"
+      "name": "Swellow"
     }]
   }, {
     "id": 277,
@@ -6038,7 +6038,7 @@
       "Electric",
       "Rock"
     ],
-    "prev_evolution": [{
+    "next_evolution": [{
       "num": "279",
       "name": "Pelipper"
     }]
@@ -6192,12 +6192,12 @@
     ],
     "next_evolution": [{
       "num": "286",
-      "name": "Masquerain "
+      "name": "Breloom"
     }]
   }, {
     "id": 286,
     "num": "286",
-    "name": "Breloom ",
+    "name": "Breloom",
     "img": "http://www.serebii.net/pokemongo/pokemon/286.png",
     "type": [
       "Grass",
