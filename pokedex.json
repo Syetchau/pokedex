@@ -7963,8 +7963,170 @@
       "num": "375",
       "name": "Metang"
     }] 
-
-
+}, {
+    "id": 377,
+    "num": "377",
+    "name": "Regirock",
+    "img": "http://www.serebii.net/pokemongo/pokemon/377.png",
+    "type": [
+      "Rock"
+    ],
+    "height": "1.70 m",
+    "weight": "230.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Grass",
+      "Ground",
+      "Steel",
+      "Water"
+    ]
+}, {
+    "id": 378,
+    "num": "378",
+    "name": "Regice",
+    "img": "http://www.serebii.net/pokemongo/pokemon/378.png",
+    "type": [
+      "Ice"
+    ],
+    "height": "1.80 m",
+    "weight": "175.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Rock",
+      "Steel"
+    ]
+  }, {
+    "id": 379,
+    "num": "379",
+    "name": "Registeel",
+    "img": "http://www.serebii.net/pokemongo/pokemon/379.png",
+    "type": [
+      "Steel"
+    ],
+    "height": "1.90 m",
+    "weight": "205.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Ground"
+    ]
+  }, {
+    "id": 380,
+    "num": "380",
+    "name": "Latias",
+    "img": "http://www.serebii.net/pokemongo/pokemon/380.png",
+    "type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "height": "1.40 m",
+    "weight": "40.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Dragon",
+      "Fairy",
+      "Ghost",
+      "Ice"
+    ]
+  }, {
+    "id": 381,
+    "num": "381",
+    "name": "Latios",
+    "img": "http://www.serebii.net/pokemongo/pokemon/381.png",
+    "type": [
+      "Dragon",
+      "Psychic"
+    ],
+    "height": "2.00 m",
+    "weight": "60.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Dragon",
+      "Fairy",
+      "Ghost",
+      "Ice"
+    ]
+  }, {
+    "id": 382,
+    "num": "382",
+    "name": "Kyogre",
+    "img": "http://www.serebii.net/pokemongo/pokemon/382.png",
+    "type": [
+      "Water"
+    ],
+    "height": "4.50 m",
+    "weight": "352.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ]
+   }, {
+    "id": 383,
+    "num": "383",
+    "name": "Groudon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/383.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "3.50 m",
+    "weight": "950.0 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ]
+   }, {
+    "id": 384,
+    "num": "384",
+    "name": "Rayquaza",
+    "img": "http://www.serebii.net/pokemongo/pokemon/384.png",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "height": "7.00 m",
+    "weight": "206.5 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice",
+      "Rock"
+    ]
+   }, {
+    "id": 385,
+    "num": "385",
+    "name": "Jirachi",
+    "img": "http://www.serebii.net/pokemongo/pokemon/385.png",
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "height": "0.30 m",
+    "weight": "1.1 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Ground"
+    ]
+   }, {
+    "id": 386,
+    "num": "386",
+    "name": "Deoxys",
+    "img": "http://www.serebii.net/pokemongo/pokemon/386.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.70 m",
+    "weight": "60.8 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
 
 
   }]
