@@ -7790,6 +7790,181 @@
       "num": "366",
       "name": "Clamperl"
     }]
+  }, {
+    "id": 369,
+    "num": "369",
+    "name": "Relicanth",
+    "img": "http://www.serebii.net/pokemongo/pokemon/369.png",
+    "type": [
+      "Water",
+      "Rock"
+    ],
+    "height": "1.00 m",
+    "weight": "23.4 kg",
+    "weaknesses": [
+      "Electric",
+      "Fighting",
+      "Grass",
+      "Ground"
+    ]
+  }, {
+    "id": 370,
+    "num": "370",
+    "name": "Luvdisc",
+    "img": "http://www.serebii.net/pokemongo/pokemon/370.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.60 m",
+    "weight": "8.7 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ]
+}, {
+    "id": 371,
+    "num": "371",
+    "name": "Bagon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/371.png",
+    "type": [
+      "Dragon"
+    ],
+    "height": "0.60 m",
+    "weight": "42.1 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "next_evolution": [{
+      "num": "372",
+      "name": "Shelgon"
+    }, {
+      "num": "373",
+      "name": "Salamence"
+    }]
+  }, {
+    "id": 372,
+    "num": "372",
+    "name": "Shelgon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/372.png",
+    "type": [
+      "Dragon"
+    ],
+    "height": "1.10 m",
+    "weight": "110.5 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "371",
+      "name": "Bagon"
+    }],
+    "next_evolution": [{
+      "num": "373",
+      "name": "Salamence"
+    }]
+  }, {
+    "id": 373,
+    "num": "373",
+    "name": "Salamence",
+    "img": "http://www.serebii.net/pokemongo/pokemon/373.png",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "height": "1.50 m",
+    "weight": "102.6 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "371",
+      "name": "Bagon"
+    }, {
+      "num": "372",
+      "name": "Shelgon"
+    }] 
+  }, {
+    "id": 374,
+    "num": "374",
+    "name": "Beldum",
+    "img": "http://www.serebii.net/pokemongo/pokemon/374.png",
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "height": "0.60 m",
+    "weight": "95.2 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "375",
+      "name": "Metang"
+    }, {
+      "num": "376",
+      "name": "Metagross"
+    }]
+  }, {
+    "id": 375,
+    "num": "375",
+    "name": "Metang",
+    "img": "http://www.serebii.net/pokemongo/pokemon/375.png",
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "height": "1.20 m",
+    "weight": "202.5 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "374",
+      "name": "Beldum"
+    }],
+    "next_evolution": [{
+      "num": "376",
+      "name": "Metagross"
+    }]
+  }, {
+    "id": 376,
+    "num": "376",
+    "name": "Metagross",
+    "img": "http://www.serebii.net/pokemongo/pokemon/376.png",
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "height": "1.60 m",
+    "weight": "550.0 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "374",
+      "name": "Beldum"
+    }, {
+      "num": "375",
+      "name": "Metang"
+    }] 
+
+
 
 
   }]
