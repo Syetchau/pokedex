@@ -5983,7 +5983,301 @@
       "num": "274",
       "name": "Nuzleaf"
     }] 
-
+  }, {
+    "id": 276,
+    "num": "276",
+    "name": "Taillow",
+    "img": "http://www.serebii.net/pokemongo/pokemon/276.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.30 m",
+    "weight": "2.3 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "277",
+      "name": "Linoone"
+    }]
+  }, {
+    "id": 277,
+    "num": "277",
+    "name": "Swellow",
+    "img": "http://www.serebii.net/pokemongo/pokemon/277.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.70 m",
+    "weight": "19.8 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "276",
+      "name": "Taillow"
+    }]
+   }, {
+    "id": 278,
+    "num": "278",
+    "name": "Wingull",
+    "img": "http://www.serebii.net/pokemongo/pokemon/278.png",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "height": "0.60 m",
+    "weight": "9.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "279",
+      "name": "Pelipper"
+    }]
+ }, {
+    "id": 279,
+    "num": "279",
+    "name": "Pelipper",
+    "img": "http://www.serebii.net/pokemongo/pokemon/279.png",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "height": "1.20 m",
+    "weight": "28.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "278",
+      "name": "Wingull"
+    }]
+ }, {
+    "id": 280,
+    "num": "280",
+    "name": "Ralts",
+    "img": "http://www.serebii.net/pokemongo/pokemon/280.png",
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "height": "0.40 m",
+    "weight": "6.6 kg",
+    "weaknesses": [
+      "Ghost",
+      "Steel",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "281",
+      "name": "Kirlia"
+    }, {
+      "num": "282",
+      "name": "Gardevoir"
+    }]
+  }, {
+    "id": 281,
+    "num": "281",
+    "name": "Kirlia",
+    "img": "http://www.serebii.net/pokemongo/pokemon/281.png",
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "height": "0.80 m",
+    "weight": "20.2 kg",
+    "weaknesses": [
+      "Ghost",
+      "Steel",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "280",
+      "name": "Ralts"
+    }],
+    "next_evolution": [{
+      "num": "282",
+      "name": "Gardevoir"
+    }]
+  }, {
+    "id": 282,
+    "num": "282",
+    "name": "Gardevoir",
+    "img": "http://www.serebii.net/pokemongo/pokemon/282.png",
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "height": "1.60 m",
+    "weight": "48.4 kg",
+    "weaknesses": [
+      "Ghost",
+      "Steel",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "280",
+      "name": "Ralts"
+    }, {
+      "num": "281",
+      "name": "Kirlia"
+    }] 
+ }, {
+    "id": 283,
+    "num": "283",
+    "name": "Surskit",
+    "img": "http://www.serebii.net/pokemongo/pokemon/283.png",
+    "type": [
+      "Bug",
+      "Water"
+    ],
+    "height": "0.50 m",
+    "weight": "1.7 kg",
+    "weaknesses": [
+      "Electric",
+      "Flying",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "284",
+      "name": "Masquerain "
+    }]
+  }, {
+    "id": 284,
+    "num": "284",
+    "name": "Masquerain ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/284.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "0.80 m",
+    "weight": "3.6 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "283",
+      "name": "Surskit"
+    }]
+ }, {
+    "id": 285,
+    "num": "285",
+    "name": "Shroomish",
+    "img": "http://www.serebii.net/pokemongo/pokemon/285.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.40 m",
+    "weight": "4.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "286",
+      "name": "Masquerain "
+    }]
+  }, {
+    "id": 286,
+    "num": "286",
+    "name": "Breloom ",
+    "img": "http://www.serebii.net/pokemongo/pokemon/286.png",
+    "type": [
+      "Grass",
+      "Fighting"
+    ],
+    "height": "1.20 m",
+    "weight": "39.2 kg",
+    "weaknesses": [
+      "Fairy",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "285",
+      "name": "Shroomish"
+    }]
+ }, {
+    "id": 287,
+    "num": "287",
+    "name": "Slakoth",
+    "img": "http://www.serebii.net/pokemongo/pokemon/287.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.80 m",
+    "weight": "24.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "288",
+      "name": "Vigoroth"
+    }, {
+      "num": "289",
+      "name": "Slaking"
+    }]
+  }, {
+    "id": 288,
+    "num": "288",
+    "name": "Vigoroth",
+    "img": "http://www.serebii.net/pokemongo/pokemon/288.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.40 m",
+    "weight": "46.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "287",
+      "name": "Slakoth"
+    }],
+    "next_evolution": [{
+      "num": "289",
+      "name": "Slaking"
+    }]
+  }, {
+    "id": 289,
+    "num": "289",
+    "name": "Slaking",
+    "img": "http://www.serebii.net/pokemongo/pokemon/289.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "2.00 m",
+    "weight": "130.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "287",
+      "name": "Slakoth"
+    }, {
+      "num": "288",
+      "name": "Vigoroth"
+    }] 
 
 
   }]
