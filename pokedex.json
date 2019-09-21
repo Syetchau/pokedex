@@ -6991,7 +6991,75 @@
     "weaknesses": [
       "Fighting"
     ]
- 
+ }, {
+    "id": 328,
+    "num": "328",
+    "name": "Trapinch",
+    "img": "http://www.serebii.net/pokemongo/pokemon/328.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.70 m",
+    "weight": "15.0 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "329",
+      "name": "Vibrava"
+    }, {
+      "num": "330",
+      "name": "Flygon"
+    }]
+  }, {
+    "id": 329,
+    "num": "329",
+    "name": "Vibrava",
+    "img": "http://www.serebii.net/pokemongo/pokemon/329.png",
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "height": "1.10 m",
+    "weight": "15.3 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "328",
+      "name": "Trapinch"
+    }],
+    "next_evolution": [{
+      "num": "330",
+      "name": "Flygon"
+    }]
+  }, {
+    "id": 330,
+    "num": "330",
+    "name": "Flygon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/330.png",
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "height": "2.00 m",
+    "weight": "82.0 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "328",
+      "name": "Trapinch"
+    }, {
+      "num": "329",
+      "name": "Vibrava"
+    }] 
 
   }]
 }
