@@ -6991,6 +6991,263 @@
     "weaknesses": [
       "Fighting"
     ]
+ }, {
+    "id": 328,
+    "num": "328",
+    "name": "Trapinch",
+    "img": "http://www.serebii.net/pokemongo/pokemon/328.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.70 m",
+    "weight": "15.0 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "329",
+      "name": "Vibrava"
+    }, {
+      "num": "330",
+      "name": "Flygon"
+    }]
+  }, {
+    "id": 329,
+    "num": "329",
+    "name": "Vibrava",
+    "img": "http://www.serebii.net/pokemongo/pokemon/329.png",
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "height": "1.10 m",
+    "weight": "15.3 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "328",
+      "name": "Trapinch"
+    }],
+    "next_evolution": [{
+      "num": "330",
+      "name": "Flygon"
+    }]
+  }, {
+    "id": 330,
+    "num": "330",
+    "name": "Flygon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/330.png",
+    "type": [
+      "Ground",
+      "Dragon"
+    ],
+    "height": "2.00 m",
+    "weight": "82.0 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "328",
+      "name": "Trapinch"
+    }, {
+      "num": "329",
+      "name": "Vibrava"
+    }] 
+}, {
+    "id": 331,
+    "num": "331",
+    "name": "Cacnea",
+    "img": "http://www.serebii.net/pokemongo/pokemon/331.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.40 m",
+    "weight": "51.3 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "next_evolution": [{
+      "num": "332",
+      "name": "Cacturne"
+    }]
+  }, {
+    "id": 332,
+    "num": "332",
+    "name": "Cacturne",
+    "img": "http://www.serebii.net/pokemongo/pokemon/332.png",
+    "type": [
+      "Grass",
+      "Dark"
+    ],
+    "height": "1.30 m",
+    "weight": "77.4 kg",
+    "weaknesses": [
+      "Bug",
+      "Fairy",
+      "Fighting"
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "331",
+      "name": "Cacnea"
+    }]
+  }, {
+    "id": 333,
+    "num": "333",
+    "name": "Swablu",
+    "img": "http://www.serebii.net/pokemongo/pokemon/333.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.40 m",
+    "weight": "1.2 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "334",
+      "name": "Altaria"
+    }]
+  }, {
+    "id": 334,
+    "num": "334",
+    "name": "Altaria",
+    "img": "http://www.serebii.net/pokemongo/pokemon/334.png",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "height": "1.10 m",
+    "weight": "20.6 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy"
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "333",
+      "name": "Swablu"
+    }]
+  }, {
+    "id": 335,
+    "num": "335",
+    "name": "Zangoose",
+    "img": "http://www.serebii.net/pokemongo/pokemon/335.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.30 m",
+    "weight": "40.3 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 336,
+    "num": "336",
+    "name": "Seviper",
+    "img": "http://www.serebii.net/pokemongo/pokemon/336.png",
+    "type": [
+      "Poison"
+    ],
+    "height": "2.70 m",
+    "weight": "52.5 kg",
+    "weaknesses": [
+      "Ground",
+      "Psychic"
+    ]
+   }, {
+    "id": 337,
+    "num": "337",
+    "name": "Lunatone",
+    "img": "http://www.serebii.net/pokemongo/pokemon/337.png",
+    "type": [
+      "Rock",
+      "Psychic"
+    ],
+    "height": "1.00 m",
+    "weight": "168.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost",
+      "Grass",
+      "Steel",
+      "Water"
+    ]
+  }, {
+    "id": 338,
+    "num": "338",
+    "name": "Solrock",
+    "img": "http://www.serebii.net/pokemongo/pokemon/338.png",
+    "type": [
+      "Rock",
+      "Psychic"
+    ],
+    "height": "1.20 m",
+    "weight": "154.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost",
+      "Grass",
+      "Steel",
+      "Water"
+    ]
+}, {
+    "id": 339,
+    "num": "339",
+    "name": "Barboach",
+    "img": "http://www.serebii.net/pokemongo/pokemon/339.png",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "height": "0.40 m",
+    "weight": "1.9 kg",
+    "weaknesses": [
+      "Grass"
+    ],
+    "next_evolution": [{
+      "num": "340",
+      "name": "Whiscash"
+    }]
+  }, {
+    "id": 340,
+    "num": "340",
+    "name": "Whiscash",
+    "img": "http://www.serebii.net/pokemongo/pokemon/340.png",
+    "type": [
+      "Water",
+      "Ground"
+    ],
+    "height": "0.90 m",
+    "weight": "23.6 kg",
+    "weaknesses": [
+      "Grass"
+    ],
+    "prev_evolution": [{
+      "num": "339",
+      "name": "Barboach"
+    }]
+
 
   }]
 }
