@@ -6474,7 +6474,256 @@
       "num": "184",
       "name": "Azumarill"
     }]
-
+}, {
+    "id": 299,
+    "num": "299",
+    "name": "Nosepass",
+    "img": "http://www.serebii.net/pokemongo/pokemon/299.png",
+    "type": [
+      "Rock"
+    ],
+    "height": "1.00 m",
+    "weight": "97.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Grass",
+      "Ground",
+      "Steel",
+      "Water"
+    ]
+  }, {
+    "id": 300,
+    "num": "300",
+    "name": "Skitty",
+    "img": "http://www.serebii.net/pokemongo/pokemon/300.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.60 m",
+    "weight": "11.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "301",
+      "name": "Delcatty"
+    }]
+  }, {
+    "id": 301,
+    "num": "301",
+    "name": "Delcatty",
+    "img": "http://www.serebii.net/pokemongo/pokemon/301.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.10 m",
+    "weight": "32.6 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "300",
+      "name": "Skitty"
+    }]
+}, {
+    "id": 302,
+    "num": "302",
+    "name": "Sableye",
+    "img": "http://www.serebii.net/pokemongo/pokemon/302.png",
+    "type": [
+      "Dark",
+      "Ghost"
+    ],
+    "height": "0.50 m",
+    "weight": "11.0 kg",
+    "weaknesses": [
+      "Fairy"
+    ]
+  }, {
+    "id": 303,
+    "num": "303",
+    "name": "Mawile",
+    "img": "http://www.serebii.net/pokemongo/pokemon/303.png",
+    "type": [
+      "Steel",
+      "Fairy"
+    ],
+    "height": "0.60 m",
+    "weight": "11.5 kg",
+    "weaknesses": [
+      "Fire",
+      "Ground"
+    ]
+   }, {
+    "id": 304,
+    "num": "304",
+    "name": "Aron",
+    "img": "http://www.serebii.net/pokemongo/pokemon/304.png",
+    "type": [
+      "Steel",
+      "Rock"
+    ],
+    "height": "0.40 m",
+    "weight": "60.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "305",
+      "name": "Lairon"
+    }, {
+      "num": "306",
+      "name": "Aggron"
+    }]
+  }, {
+    "id": 305,
+    "num": "305",
+    "name": "Lairon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/305.png",
+    "type": [
+      "Steel",
+      "Rock"
+    ],
+    "height": "0.90 m",
+    "weight": "120.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "304",
+      "name": "Aron"
+    }],
+    "next_evolution": [{
+      "num": "306",
+      "name": "Aggron"
+    }]
+  }, {
+    "id": 306,
+    "num": "306",
+    "name": "Aggron",
+    "img": "http://www.serebii.net/pokemongo/pokemon/306.png",
+    "type": [
+      "Steel",
+      "Rock"
+    ],
+    "height": "2.10 m",
+    "weight": "360.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "304",
+      "name": "Aron"
+    }, {
+      "num": "305",
+      "name": "Lairon"
+    }] 
+ }, {
+    "id": 307,
+    "num": "307",
+    "name": "Meditite",
+    "img": "http://www.serebii.net/pokemongo/pokemon/307.png",
+    "type": [
+      "Fighting",
+      "Psychic"
+    ],
+    "height": "0.60 m",
+    "weight": "11.2 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Ghost"
+    ],
+    "next_evolution": [{
+      "num": "308",
+      "name": "Medicham"
+    }]
+  }, {
+    "id": 308,
+    "num": "308",
+    "name": "Medicham",
+    "img": "http://www.serebii.net/pokemongo/pokemon/308.png",
+    "type": [
+      "Fighting",
+      "Psychic"
+    ],
+    "height": "1.30 m",
+    "weight": "31.5 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Ghost"
+    ],
+    "prev_evolution": [{
+      "num": "307",
+      "name": "Meditite"
+    }]
+  }, {
+    "id": 309,
+    "num": "309",
+    "name": "Electrike",
+    "img": "http://www.serebii.net/pokemongo/pokemon/309.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.60 m",
+    "weight": "15.2 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "310",
+      "name": "Medicham"
+    }]
+  }, {
+    "id": 310,
+    "num": "310",
+    "name": "Manectric",
+    "img": "http://www.serebii.net/pokemongo/pokemon/310.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "1.50 m",
+    "weight": "40.2 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "309",
+      "name": "Electrike"
+    }]
+  }, {
+    "id": 311,
+    "num": "311",
+    "name": "Plusle",
+    "img": "http://www.serebii.net/pokemongo/pokemon/311.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.40 m",
+    "weight": "4.2 kg",
+    "weaknesses": [
+      "Ground"
+    ]
+   }, {
+    "id": 312,
+    "num": "312",
+    "name": "Minun",
+    "img": "http://www.serebii.net/pokemongo/pokemon/312.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "0.40 m",
+    "weight": "4.2 kg",
+    "weaknesses": [
+      "Ground"
+    ]
 
   }]
 }
