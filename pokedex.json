@@ -10162,6 +10162,252 @@
       "num": "361",
       "name": "Snorunt"
     }]
+}, {
+    "id": 479,
+    "num": "479",
+    "name": "Rotom",
+    "img": "http://www.serebii.net/pokemongo/pokemon/479.png",
+    "type": [
+      "Electric",
+      "Ghost"
+    ],
+    "height": "0.30 m",
+    "weight": "0.3 kg",
+    "weaknesses": [
+      "Dark",
+      "Ghost"
+    ]
+  }, {
+    "id": 480,
+    "num": "480",
+    "name": "Uxie",
+    "img": "http://www.serebii.net/pokemongo/pokemon/480.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.30 m",
+    "weight": "0.3 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
+   }, {
+    "id": 481,
+    "num": "481",
+    "name": "Mesprit",
+    "img": "http://www.serebii.net/pokemongo/pokemon/481.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.30 m",
+    "weight": "0.3 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
+   }, {
+    "id": 482,
+    "num": "482",
+    "name": "Azelf",
+    "img": "http://www.serebii.net/pokemongo/pokemon/482.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.30 m",
+    "weight": "0.3 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
+   }, {
+    "id": 483,
+    "num": "483",
+    "name": "Dialga",
+    "img": "http://www.serebii.net/pokemongo/pokemon/483.png",
+    "type": [
+      "Steel",
+      "Dragon"
+    ],
+    "height": "5.40 m",
+    "weight": "683.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground"
+    ]
+    }, {
+    "id": 484,
+    "num": "484",
+    "name": "Palkia",
+    "img": "http://www.serebii.net/pokemongo/pokemon/484.png",
+    "type": [
+      "Water",
+      "Dragon"
+    ],
+    "height": "4.20 m",
+    "weight": "336.0 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy"
+    ]
+  }, {
+    "id": 485,
+    "num": "485",
+    "name": "Heatran",
+    "img": "http://www.serebii.net/pokemongo/pokemon/485.png",
+    "type": [
+      "Fire",
+      "Steel"
+    ],
+    "height": "1.70 m",
+    "weight": "430.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ]
+  }, {
+    "id": 486,
+    "num": "486",
+    "name": "Regigigas",
+    "img": "http://www.serebii.net/pokemongo/pokemon/486.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "3.70 m",
+    "weight": "420.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+   }, {
+    "id": 487,
+    "num": "487",
+    "name": "Giratina",
+    "img": "http://www.serebii.net/pokemongo/pokemon/487.png",
+    "type": [
+      "Ghost",
+      "Dragon"
+    ],
+    "height": "4.50 m",
+    "weight": "750.0 kg",
+    "weaknesses": [
+      "Dark",
+      "Dragon",
+      "Fairy",
+      "Ghost",
+      "Ice"
+    ]
+   }, {
+    "id": 488,
+    "num": "488",
+    "name": "Cresselia",
+    "img": "http://www.serebii.net/pokemongo/pokemon/488.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "1.50 m",
+    "weight": "85.6 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ]
+   }, {
+    "id": 489,
+    "num": "489",
+    "name": "Phione",
+    "img": "http://www.serebii.net/pokemongo/pokemon/489.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.40 m",
+    "weight": "3.1 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ]
+   }, {
+    "id": 490,
+    "num": "490",
+    "name": "Manaphy",
+    "img": "http://www.serebii.net/pokemongo/pokemon/490.png",
+    "type": [
+      "Water"
+    ],
+    "height": "0.30 m",
+    "weight": "1.4 kg",
+    "weaknesses": [
+      "Electric",
+      "Grass"
+    ]
+  }, {
+    "id": 491,
+    "num": "491",
+    "name": "Darkrai",
+    "img": "http://www.serebii.net/pokemongo/pokemon/491.png",
+    "type": [
+      "Dark"
+    ],
+    "height": "1.50 m",
+    "weight": "50.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Fairy",
+      "Fighting"
+    ]
+  }, {
+    "id": 492,
+    "num": "492",
+    "name": "Shaymin",
+    "img": "http://www.serebii.net/pokemongo/pokemon/492.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "0.20 m",
+    "weight": "2.1 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ]
+  }, {
+    "id": 493,
+    "num": "493",
+    "name": "Arceus",
+    "img": "http://www.serebii.net/pokemongo/pokemon/493.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "3.20 m",
+    "weight": "320.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ]
+  }, {
+    "id": 494,
+    "num": "494",
+    "name": "Victini",
+    "img": "http://www.serebii.net/pokemongo/pokemon/494.png",
+    "type": [
+      "Psychic",
+      "Fire"
+    ],
+    "height": "0.40 m",
+    "weight": "4.0 kg",
+    "weaknesses": [
+      "Dark",
+      "Ghost",
+      "Ground",
+      "Rock",
+      "Water"
+    ]
+
+
+
 
   }]
 }
