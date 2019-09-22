@@ -6611,7 +6611,7 @@
       "Steel",
       "Water"
      ],
-    "prev_evolution": [{
+    "next_evolution": [{
       "num": "476",
       "name": "Probopass"
     }]
@@ -10073,7 +10073,7 @@
       "num": "137",
       "name": "Porygon"
     },{
-      "num": "223",
+      "num": "233",
       "name": "Porygon2"
     }]
 }, {
@@ -10137,7 +10137,7 @@
       "num": "355",
       "name": "Duskull"
     },{
-      "num": "256",
+      "num": "356",
       "name": "Dusclops"
     }]
   }, {
