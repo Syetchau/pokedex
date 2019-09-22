@@ -2784,6 +2784,10 @@
     "weaknesses": [
       "Fighting"
      ],
+     "prev_evolution": [{
+      "num": "440",
+      "name": "Happiny"
+    }],
     "next_evolution": [{
       "num": "242",
       "name": "Blissey"
@@ -2952,7 +2956,11 @@
       "Steel",
       "Ghost",
       "Poison"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "439",
+      "name": "Mime Jr."
+    }]
   }, {
     "id": 123,
     "num": "123",
@@ -4215,7 +4223,11 @@
       "Ground",
       "Steel",
       "Water"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "438",
+      "name": "Bonsly"
+    }]
   }, {
     "id": 186,
     "num": "186",
@@ -4480,7 +4492,11 @@
       "Fairy",
       "Ice",
       "Rock"
-    ]
+    ],
+    "next_evolution": [{
+      "num": "430",
+      "name": "Honchkrow"
+    }]
    }, {
     "id": 199,
     "num": "199",
@@ -4516,7 +4532,11 @@
     "weaknesses": [
       "Dark",
       "Ghost"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "429",
+      "name": "Mismagius"
+    }]
    }, {
     "id": 201,
     "num": "201",
@@ -5267,6 +5287,9 @@
       "Fighting"
     ],
     "prev_evolution": [{
+      "num": "440",
+      "name": "Happiny"
+    },{
       "num": "113",
       "name": "Chansey"
     }]
@@ -7597,7 +7620,11 @@
       "Bug",
       "Dark",
       "Ghost"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "433",
+      "name": "Chingling"
+    }]
   }, {
     "id": 359,
     "num": "359",
@@ -8940,7 +8967,315 @@
       "num": "190",
       "name": "Aipom"
     }]
-
+}, {
+    "id": 425,
+    "num": "425",
+    "name": "Drifloon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/425.png",
+    "type": [
+      "Ghost",
+      "Flying"
+    ],
+    "height": "0.40 m",
+    "weight": "1.2 kg",
+    "weaknesses": [
+      "Dark",
+      "Electric",
+      "Ghost",
+      "Ice",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "426",
+      "name": "Drifblim"
+    }]
+  }, {
+    "id": 426,
+    "num": "426",
+    "name": "Drifblim",
+    "img": "http://www.serebii.net/pokemongo/pokemon/426.png",
+    "type": [
+      "Ghost",
+      "Flying"
+    ],
+    "height": "1.20 m",
+    "weight": "15.0 kg",
+    "weaknesses": [
+      "Dark",
+      "Electric",
+      "Ghost",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "425",
+      "name": "Drifloon"
+    }]
+  }, {
+    "id": 427,
+    "num": "427",
+    "name": "Buneary",
+    "img": "http://www.serebii.net/pokemongo/pokemon/427.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.40 m",
+    "weight": "5.5 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "428",
+      "name": "Lopunny"
+    }]
+  }, {
+    "id": 428,
+    "num": "428",
+    "name": "Lopunny",
+    "img": "http://www.serebii.net/pokemongo/pokemon/428.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.20 m",
+    "weight": "33.3 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "427",
+      "name": "Buneary"
+    }]
+ }, {
+    "id": 429,
+    "num": "429",
+    "name": "Mismagius",
+    "img": "http://www.serebii.net/pokemongo/pokemon/429.png",
+    "type": [
+      "Ghost"
+    ],
+    "height": "0.90 m",
+    "weight": "4.4 kg",
+    "weaknesses": [
+      "Dark",
+      "Ghost"
+    ],
+    "prev_evolution": [{
+      "num": "200",
+      "name": "Misdreavus"
+    }]
+  }, {
+    "id": 430,
+    "num": "430",
+    "name": "Honchkrow",
+    "img": "http://www.serebii.net/pokemongo/pokemon/430.png",
+    "type": [
+      "Dark",
+      "Flying"
+    ],
+    "height": "0.90 m",
+    "weight": "27.3 kg",
+    "weaknesses": [
+      "Electric",
+      "Fairy",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "198",
+      "name": "Murkrow"
+    }]
+}, {
+    "id": 431,
+    "num": "431",
+    "name": "Glameow",
+    "img": "http://www.serebii.net/pokemongo/pokemon/431.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.50 m",
+    "weight": "3.9 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "432",
+      "name": "Purugly"
+    }]
+  }, {
+    "id": 432,
+    "num": "432",
+    "name": "Purugly",
+    "img": "http://www.serebii.net/pokemongo/pokemon/432.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "1.00 m",
+    "weight": "43.8 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "431",
+      "name": "Glameow"
+    }]
+}, {
+    "id": 433,
+    "num": "433",
+    "name": "Chingling",
+    "img": "http://www.serebii.net/pokemongo/pokemon/433.png",
+    "type": [
+      "Psychic"
+    ],
+    "height": "0.20 m",
+    "weight": "0.6 kg",
+    "weaknesses": [
+      "Bug",
+      "Dark",
+      "Ghost"
+    ],
+    "next_evolution": [{
+      "num": "358",
+      "name": "Chimecho"
+    }]
+}, {
+    "id": 434,
+    "num": "434",
+    "name": "Stunky",
+    "img": "http://www.serebii.net/pokemongo/pokemon/434.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "height": "0.40 m",
+    "weight": "19.2 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "435",
+      "name": "Skuntank"
+    }]
+  }, {
+    "id": 435,
+    "num": "435",
+    "name": "Skuntank",
+    "img": "http://www.serebii.net/pokemongo/pokemon/435.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "height": "1.00 m",
+    "weight": "38.0 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "434",
+      "name": "Stunky"
+    }]
+  }, {
+    "id": 436,
+    "num": "436",
+    "name": "Bronzor",
+    "img": "http://www.serebii.net/pokemongo/pokemon/436.png",
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "height": "0.50 m",
+    "weight": "60.5 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Ground"
+    ],
+    "next_evolution": [{
+      "num": "437",
+      "name": "Bronzong"
+    }]
+  }, {
+    "id": 437,
+    "num": "437",
+    "name": "Bronzong",
+    "img": "http://www.serebii.net/pokemongo/pokemon/437.png",
+    "type": [
+      "Steel",
+      "Psychic"
+    ],
+    "height": "1.30 m",
+    "weight": "187.0 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "436",
+      "name": "Bronzor"
+    }]
+}, {
+    "id": 438,
+    "num": "438",
+    "name": "Bonsly",
+    "img": "http://www.serebii.net/pokemongo/pokemon/438.png",
+    "type": [
+      "Rock"
+    ],
+    "height": "0.50 m",
+    "weight": "15.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Grass",
+      "Ground",
+      "Steel",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "185",
+      "name": "Sudowoodo"
+    }]
+  }, {
+    "id": 439,
+    "num": "439",
+    "name": "Mime Jr.",
+    "img": "http://www.serebii.net/pokemongo/pokemon/439.png",
+    "type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "height": "0.60 m",
+    "weight": "13.0 kg",
+    "weaknesses": [
+      "Ghost",
+      "Poison",
+      "Steel"
+    ],
+    "next_evolution": [{
+      "num": "122",
+      "name": "Mr. Mime"
+    }]
+ }, {
+    "id": 440,
+    "num": "440",
+    "name": "Happiny",
+    "img": "http://www.serebii.net/pokemongo/pokemon/440.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.60 m",
+    "weight": "24.4 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "113",
+      "name": "Chansey"
+    },{
+      "num": "242",
+      "name": "Blissey"
+    }]
 
   }]
 }
