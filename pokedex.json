@@ -2096,7 +2096,7 @@
       "Ground"
     ],
     "prev_evolution": [{
-      "num": "082",
+      "num": "081",
       "name": "Magnemite"
     }],
     "next_evolution": [{
@@ -2827,7 +2827,7 @@
       "Ice",
       "Poison"
       ],
-    "prev_evolution": [{
+    "next_evolution": [{
       "num": "465",
       "name": "Tangrowth"
     }]
@@ -3040,10 +3040,14 @@
     "weight": "30.0 kg",
     "weaknesses": [
       "Ground"
-     ],
+      ],
     "prev_evolution": [{
       "num": "239",
       "name": "Elekid"
+    }],
+    "next_evolution": [{
+      "num": "466",
+      "name": "Electivire"
     }]
   }, {
     "id": 126,
@@ -3060,9 +3064,13 @@
       "Ground",
       "Rock"
      ],
-    "prev_evolution": [{
+     "prev_evolution": [{
       "num": "240",
       "name": "Magby"
+    }],
+    "next_evolution": [{
+      "num": "467",
+      "name": "Magmortar"
     }]
   }, {
     "id": 127,
@@ -3187,6 +3195,12 @@
     },{
       "num": "197",
       "name": "Umbreon"
+    },{
+      "num": "470",
+      "name": "Leafeon"
+    },{
+      "num": "471",
+      "name": "Glaceon"
     }]
   }, {
     "id": 134,
@@ -3258,6 +3272,9 @@
     "next_evolution": [{
       "num": "233",
       "name": "Porygon2"
+    },{
+      "num": "474",
+      "name": "Porygon-Z"
     }]
   }, {
     "id": 138,
@@ -4034,6 +4051,9 @@
     "next_evolution": [{
       "num": "176",
       "name": "Togetic"
+    },{
+      "num": "468",
+      "name": "Togekiss"
     }]
   }, {
     "id": 176,
@@ -4056,6 +4076,10 @@
     "prev_evolution": [{
       "num": "175",
       "name": "Togepi"
+    }],
+    "next_evolution": [{
+      "num": "468",
+      "name": "Togekiss"
     }]
   }, {
     "id": 177,
@@ -4427,7 +4451,11 @@
       "Flying",
       "Ice",
       "Rock"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "469",
+      "name": "Yanmega"
+    }]
   }, {
     "id": 194,
     "num": "194",
@@ -4676,7 +4704,11 @@
     "weaknesses": [
       "Ice",
       "Water"
-    ]
+     ],
+    "next_evolution": [{
+      "num": "472",
+      "name": "Gliscor"
+    }]
    }, {
     "id": 208,
     "num": "208",
@@ -4919,6 +4951,9 @@
     "next_evolution": [{
       "num": "221",
       "name": "Piloswine "
+    },{
+      "num": "473",
+      "name": "Mamoswine"
     }]
   }, {
     "id": 221,
@@ -4941,6 +4976,10 @@
     "prev_evolution": [{
       "num": "220",
       "name": "Swinub"
+    }],
+    "next_evolution": [{
+      "num": "473",
+      "name": "Mamoswine"
     }]
    }, {
     "id": 222,
@@ -5164,6 +5203,10 @@
     "prev_evolution": [{
       "num": "137",
       "name": "Porygon"
+    }],
+    "next_evolution": [{
+      "num": "474",
+      "name": "Porygon-Z"
     }]
   }, {
     "id": 234,
@@ -5274,6 +5317,9 @@
     "next_evolution": [{
       "num": "125",
       "name": "Electabuzz"
+    },{
+      "num": "466",
+      "name": "Electivire"
     }]
     }, {
     "id": 240,
@@ -5293,6 +5339,9 @@
     "next_evolution": [{
       "num": "126",
       "name": "Magmar"
+    },{
+      "num": "467",
+      "name": "Magmortar"
     }]
  }, {
     "id": 241,
@@ -6155,6 +6204,9 @@
     }, {
       "num": "282",
       "name": "Gardevoir"
+    },{
+      "num": "475",
+      "name": "Gallade"
     }]
   }, {
     "id": 281,
@@ -6179,6 +6231,9 @@
     "next_evolution": [{
       "num": "282",
       "name": "Gardevoir"
+    },{
+      "num": "475",
+      "name": "Gallade"
     }]
   }, {
     "id": 282,
@@ -6555,7 +6610,11 @@
       "Ground",
       "Steel",
       "Water"
-    ]
+     ],
+    "prev_evolution": [{
+      "num": "476",
+      "name": "Probopass"
+    }]
   }, {
     "id": 300,
     "num": "300",
@@ -7603,6 +7662,9 @@
     "next_evolution": [{
       "num": "356",
       "name": "Dusclops "
+    },{
+      "num": "477",
+      "name": "Dusknoir"
     }]
   }, {
     "id": 356,
@@ -7621,6 +7683,10 @@
     "prev_evolution": [{
       "num": "355",
       "name": "Duskull"
+    }],
+    "next_evolution": [{
+      "num": "477",
+      "name": "Dusknoir"
     }]
  }, {
     "id": 357,
@@ -7712,6 +7778,9 @@
     "next_evolution": [{
       "num": "362",
       "name": "Glalie "
+    },{
+      "num": "478",
+      "name": "Froslass"
     }]
   }, {
     "id": 362,
@@ -9813,8 +9882,286 @@
       "num": "114",
       "name": "Tangela"
     }]
-
-
+}, {
+    "id": 466,
+    "num": "466",
+    "name": "Electivire",
+    "img": "http://www.serebii.net/pokemongo/pokemon/466.png",
+    "type": [
+      "Electric"
+    ],
+    "height": "1.80 m",
+    "weight": "138.6 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "239",
+      "name": "Elekid"
+    },{
+      "num": "125",
+      "name": "Electabuzz"
+    }]
+  }, {
+    "id": 467,
+    "num": "467",
+    "name": "Magmortar",
+    "img": "http://www.serebii.net/pokemongo/pokemon/467.png",
+    "type": [
+      "Fire"
+    ],
+    "height": "1.60 m",
+    "weight": "68.0 kg",
+    "weaknesses": [
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "240",
+      "name": "Magby"
+    },{
+      "num": "126",
+      "name": "Magmar"
+    }]
+  }, {
+    "id": 468,
+    "num": "468",
+    "name": "Togekiss",
+    "img": "http://www.serebii.net/pokemongo/pokemon/468.png",
+    "type": [
+      "Fairy",
+      "Flying"
+    ],
+    "height": "1.50 m",
+    "weight": "38.0 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Poison",
+      "Rock",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "175",
+      "name": "Togepi"
+    },{
+      "num": "176",
+      "name": "Togetic"
+    }]
+}, {
+    "id": 469,
+    "num": "469",
+    "name": "Yanmega",
+    "img": "http://www.serebii.net/pokemongo/pokemon/469.png",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "height": "1.90 m",
+    "weight": "51.5 kg",
+    "weaknesses": [
+      "Electric",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Rock"
+    ],
+    "prev_evolution": [{
+      "num": "193",
+      "name": "Yanma"
+    }]
+ }, {
+    "id": 470,
+    "num": "470",
+    "name": "Leafeon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/470.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "1.00 m",
+    "weight": "25.5 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+  }, {
+    "id": 471,
+    "num": "471",
+    "name": "Glaceon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/471.png",
+    "type": [
+      "Ice"
+    ],
+    "height": "0.80 m",
+    "weight": "25.9 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Rock",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "133",
+      "name": "Eevee"
+    }]
+}, {
+    "id": 472,
+    "num": "472",
+    "name": "Gliscor",
+    "img": "http://www.serebii.net/pokemongo/pokemon/472.png",
+    "type": [
+      "Ground",
+      "Flying"
+    ],
+    "height": "2.00 m",
+    "weight": "42.5 kg",
+    "weaknesses": [
+      "Ice",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "207",
+      "name": "Gligar"
+    }]
+}, {
+    "id": 473,
+    "num": "473",
+    "name": "Mamoswine",
+    "img": "http://www.serebii.net/pokemongo/pokemon/473.png",
+    "type": [
+      "Ice",
+      "Ground"
+    ],
+    "height": "2.50 m",
+    "weight": "291.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Grass",
+      "Steel",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "220",
+      "name": "Swinub"
+    },{
+      "num": "221",
+      "name": "Piloswine"
+    }]
+  }, {
+    "id": 474,
+    "num": "474",
+    "name": "Porygon-Z",
+    "img": "http://www.serebii.net/pokemongo/pokemon/474.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.90 m",
+    "weight": "34.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "prev_evolution": [{
+      "num": "137",
+      "name": "Porygon"
+    },{
+      "num": "223",
+      "name": "Porygon2"
+    }]
+}, {
+    "id": 475,
+    "num": "475",
+    "name": "Gallade",
+    "img": "http://www.serebii.net/pokemongo/pokemon/475.png",
+    "type": [
+      "Psychic",
+      "Fighting"
+    ],
+    "height": "1.60 m",
+    "weight": "52.0 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Ghost"
+    ],
+    "prev_evolution": [{
+      "num": "280",
+      "name": "Ralts"
+    },{
+      "num": "281",
+      "name": "Kirlia"
+    }]
+}, {
+    "id": 476,
+    "num": "476",
+    "name": "Probopass",
+    "img": "http://www.serebii.net/pokemongo/pokemon/476.png",
+    "type": [
+      "Rock",
+      "Steel"
+    ],
+    "height": "1.40 m",
+    "weight": "340.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Ground",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "299",
+      "name": "Nosepass"
+    }]
+}, {
+    "id": 477,
+    "num": "477",
+    "name": "Dusknoir",
+    "img": "http://www.serebii.net/pokemongo/pokemon/477.png",
+    "type": [
+      "Ghost"
+    ],
+    "height": "2.20 m",
+    "weight": "106.6 kg",
+    "weaknesses": [
+      "Dark",
+      "Ghost"
+    ],
+    "prev_evolution": [{
+      "num": "355",
+      "name": "Duskull"
+    },{
+      "num": "256",
+      "name": "Dusclops"
+    }]
+  }, {
+    "id": 478,
+    "num": "478",
+    "name": "Froslass",
+    "img": "http://www.serebii.net/pokemongo/pokemon/478.png",
+    "type": [
+      "Ice",
+      "Ghost"
+    ],
+    "height": "1.30 m",
+    "weight": "26.6 kg",
+    "weaknesses": [
+      "Dark",
+      "Fire",
+      "Ghost",
+      "Rock",
+      "Steel"
+    ],
+    "prev_evolution": [{
+      "num": "361",
+      "name": "Snorunt"
+    }]
 
   }]
 }
