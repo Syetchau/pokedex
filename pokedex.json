@@ -2953,9 +2953,9 @@
     "height": "1.30 m",
     "weight": "54.5 kg",
     "weaknesses": [
-      "Steel",
       "Ghost",
-      "Poison"
+      "Poison",
+      "Steel"
      ],
     "next_evolution": [{
       "num": "439",
@@ -3351,7 +3351,11 @@
     "weight": "460.0 kg",
     "weaknesses": [
       "Fighting"
-    ]
+    ],
+    "prev_evolution": [{
+      "num": "446",
+      "name": "Munchlax"
+    }]
   }, {
     "id": 144,
     "num": "144",
@@ -9276,6 +9280,297 @@
       "num": "242",
       "name": "Blissey"
     }]
+}, {
+    "id": 441,
+    "num": "441",
+    "name": "Chatot",
+    "img": "http://www.serebii.net/pokemongo/pokemon/441.png",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "height": "0.50 m",
+    "weight": "1.9 kg",
+    "weaknesses": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  }, {
+    "id": 442,
+    "num": "442",
+    "name": "Spiritomb",
+    "img": "http://www.serebii.net/pokemongo/pokemon/442.png",
+    "type": [
+      "Ghost",
+      "Dark"
+    ],
+    "height": "1.00 m",
+    "weight": "108.0 kg",
+    "weaknesses": [
+      "Fairy"
+    ]
+}, {
+    "id": 443,
+    "num": "443",
+    "name": "Gible",
+    "img": "http://www.serebii.net/pokemongo/pokemon/443.png",
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "height": "0.70 m",
+    "weight": "20.5 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "next_evolution": [{
+      "num": "444",
+      "name": "Gabite"
+    }, {
+      "num": "445",
+      "name": "Garchomp"
+    }]
+  }, {
+    "id": 444,
+    "num": "444",
+    "name": "Gabite",
+    "img": "http://www.serebii.net/pokemongo/pokemon/444.png",
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "height": "1.40 m",
+    "weight": "56.0 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "443",
+      "name": "Gible"
+    }],
+    "next_evolution": [{
+      "num": "445",
+      "name": "Garchomp"
+    }]
+  }, {
+    "id": 445,
+    "num": "445",
+    "name": "Garchomp",
+    "img": "http://www.serebii.net/pokemongo/pokemon/445.png",
+    "type": [
+      "Dragon",
+      "Ground"
+    ],
+    "height": "1.90 m",
+    "weight": "95.0 kg",
+    "weaknesses": [
+      "Dragon",
+      "Fairy",
+      "Ice"
+    ],
+    "prev_evolution": [{
+      "num": "443",
+      "name": "Gible"
+    }, {
+      "num": "444",
+      "name": "Gabite"
+    }] 
+}, {
+    "id": 446,
+    "num": "446",
+    "name": "Munchlax",
+    "img": "http://www.serebii.net/pokemongo/pokemon/446.png",
+    "type": [
+      "Normal"
+    ],
+    "height": "0.60 m",
+    "weight": "105.0 kg",
+    "weaknesses": [
+      "Fighting"
+    ],
+    "next_evolution": [{
+      "num": "143",
+      "name": "Snorlax"
+    }]
+ }, {
+    "id": 447,
+    "num": "447",
+    "name": "Riolu",
+    "img": "http://www.serebii.net/pokemongo/pokemon/447.png",
+    "type": [
+      "Fighting"
+    ],
+    "height": "0.70 m",
+    "weight": "20.2 kg",
+    "weaknesses": [
+      "Fairy",
+      "Flying",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "448",
+      "name": "Lucario"
+    }]
+}, {
+    "id": 448,
+    "num": "448",
+    "name": "Lucario",
+    "img": "http://www.serebii.net/pokemongo/pokemon/448.png",
+    "type": [
+      "Fighting",
+      "Steel"
+    ],
+    "height": "1.20 m",
+    "weight": "54.0 kg",
+    "weaknesses": [
+      "Fighting",
+      "Fire",
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "447",
+      "name": "Riolu"
+    }]
+}, {
+    "id": 449,
+    "num": "449",
+    "name": "Hippopotas",
+    "img": "http://www.serebii.net/pokemongo/pokemon/449.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "0.80 m",
+    "weight": "49.5 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "next_evolution": [{
+      "num": "450",
+      "name": "Hippowdon"
+    }]
+}, {
+    "id": 450,
+    "num": "450",
+    "name": "Hippowdon",
+    "img": "http://www.serebii.net/pokemongo/pokemon/450.png",
+    "type": [
+      "Ground"
+    ],
+    "height": "2.00 m",
+    "weight": "300.0 kg",
+    "weaknesses": [
+      "Grass",
+      "Ice",
+      "Water"
+    ],
+    "prev_evolution": [{
+      "num": "449",
+      "name": "Hippopotas"
+    }]
+  }, {
+    "id": 451,
+    "num": "451",
+    "name": "Skorupi",
+    "img": "http://www.serebii.net/pokemongo/pokemon/451.png",
+    "type": [
+      "Poison",
+      "Bug"
+    ],
+    "height": "0.80 m",
+    "weight": "12.0 kg",
+    "weaknesses": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ],
+    "next_evolution": [{
+      "num": "452",
+      "name": "Drapion"
+    }]
+}, {
+    "id": 452,
+    "num": "452",
+    "name": "Drapion",
+    "img": "http://www.serebii.net/pokemongo/pokemon/452.png",
+    "type": [
+      "Poison",
+      "Dark"
+    ],
+    "height": "2.00 m",
+    "weight": "300.0 kg",
+    "weaknesses": [
+      "Ground"
+    ],
+    "prev_evolution": [{
+      "num": "451",
+      "name": "Skorupi"
+    }]
+ }, {
+    "id": 453,
+    "num": "453",
+    "name": "Croagunk",
+    "img": "http://www.serebii.net/pokemongo/pokemon/453.png",
+    "type": [
+      "Poison",
+      "Fighting"
+    ],
+    "height": "0.70 m",
+    "weight": "23.0 kg",
+    "weaknesses": [
+      "Flying",
+      "Ground",
+      "Psychic"
+    ],
+    "next_evolution": [{
+      "num": "454",
+      "name": "Toxicroak"
+    }]
+}, {
+    "id": 454,
+    "num": "454",
+    "name": "Toxicroak",
+    "img": "http://www.serebii.net/pokemongo/pokemon/454.png",
+    "type": [
+      "Poison",
+      "Fighting"
+    ],
+    "height": "1.30 m",
+    "weight": "44.4 kg",
+    "weaknesses": [
+      "Flying",
+      "Ground",
+      "Psychic"
+    ],
+    "prev_evolution": [{
+      "num": "453",
+      "name": "Croagunk"
+    }]
+}, {
+    "id": 455,
+    "num": "455",
+    "name": "Carnivine",
+    "img": "http://www.serebii.net/pokemongo/pokemon/455.png",
+    "type": [
+      "Grass"
+    ],
+    "height": "1.40 m",
+    "weight": "27.0 kg",
+    "weaknesses": [
+      "Bug",
+      "Fire",
+      "Flying",
+      "Ice",
+      "Poison"
+    ]
+
 
   }]
 }
